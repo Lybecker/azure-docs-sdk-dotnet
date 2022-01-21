@@ -34,21 +34,41 @@
       </Docs>
     </Member>
     <Member MemberName="Hosts">
-      <MemberSignature Language="C#" Value="public System.Collections.Generic.IReadOnlyList&lt;Azure.ResourceManager.Compute.Models.SubResourceReadOnly&gt; Hosts { get; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance class System.Collections.Generic.IReadOnlyList`1&lt;class Azure.ResourceManager.Compute.Models.SubResourceReadOnly&gt; Hosts" />
+      <MemberSignature Language="C#" Value="public System.Collections.Generic.IReadOnlyList&lt;Azure.ResourceManager.Resources.Models.SubResource&gt; Hosts { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.Collections.Generic.IReadOnlyList`1&lt;class Azure.ResourceManager.Resources.Models.SubResource&gt; Hosts" />
       <MemberSignature Language="DocId" Value="P:Azure.ResourceManager.Compute.Models.DedicatedHostGroupUpdate.Hosts" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Hosts As IReadOnlyList(Of SubResourceReadOnly)" />
-      <MemberSignature Language="F#" Value="member this.Hosts : System.Collections.Generic.IReadOnlyList&lt;Azure.ResourceManager.Compute.Models.SubResourceReadOnly&gt;" Usage="Azure.ResourceManager.Compute.Models.DedicatedHostGroupUpdate.Hosts" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property Hosts As IReadOnlyList(Of SubResource)" />
+      <MemberSignature Language="F#" Value="member this.Hosts : System.Collections.Generic.IReadOnlyList&lt;Azure.ResourceManager.Resources.Models.SubResource&gt;" Usage="Azure.ResourceManager.Compute.Models.DedicatedHostGroupUpdate.Hosts" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
-        <ReturnType>System.Collections.Generic.IReadOnlyList&lt;Azure.ResourceManager.Compute.Models.SubResourceReadOnly&gt;</ReturnType>
+        <ReturnType>System.Collections.Generic.IReadOnlyList&lt;Azure.ResourceManager.Resources.Models.SubResource&gt;</ReturnType>
       </ReturnValue>
       <Docs>
         <summary> A list of references to all dedicated hosts in the dedicated host group. </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="InstanceView">
+      <MemberSignature Language="C#" Value="public Azure.ResourceManager.Compute.Models.DedicatedHostGroupInstanceView InstanceView { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class Azure.ResourceManager.Compute.Models.DedicatedHostGroupInstanceView InstanceView" />
+      <MemberSignature Language="DocId" Value="P:Azure.ResourceManager.Compute.Models.DedicatedHostGroupUpdate.InstanceView" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property InstanceView As DedicatedHostGroupInstanceView" />
+      <MemberSignature Language="F#" Value="member this.InstanceView : Azure.ResourceManager.Compute.Models.DedicatedHostGroupInstanceView" Usage="Azure.ResourceManager.Compute.Models.DedicatedHostGroupUpdate.InstanceView" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.ResourceManager.Compute.Models.DedicatedHostGroupInstanceView</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary> The dedicated host group instance view, which has the list of instance view of the dedicated hosts under the dedicated host group. </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>
@@ -69,6 +89,26 @@
       </ReturnValue>
       <Docs>
         <summary> Number of fault domains that the host group can span. </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="SupportAutomaticPlacement">
+      <MemberSignature Language="C#" Value="public bool? SupportAutomaticPlacement { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype System.Nullable`1&lt;bool&gt; SupportAutomaticPlacement" />
+      <MemberSignature Language="DocId" Value="P:Azure.ResourceManager.Compute.Models.DedicatedHostGroupUpdate.SupportAutomaticPlacement" />
+      <MemberSignature Language="VB.NET" Value="Public Property SupportAutomaticPlacement As Nullable(Of Boolean)" />
+      <MemberSignature Language="F#" Value="member this.SupportAutomaticPlacement : Nullable&lt;bool&gt; with get, set" Usage="Azure.ResourceManager.Compute.Models.DedicatedHostGroupUpdate.SupportAutomaticPlacement" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary> Specifies whether virtual machines or virtual machine scale sets can be placed automatically on the dedicated host group. Automatic placement means resources are allocated on dedicated hosts, that are chosen by Azure, under the dedicated host group. The value is defaulted to 'false' when not provided. &lt;br&gt;&lt;br&gt;Minimum api-version: 2020-06-01. </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>

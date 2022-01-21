@@ -16,6 +16,12 @@
     <AssemblyVersion>4.35.0.0</AssemblyVersion>
     <AssemblyVersion>4.35.1.0</AssemblyVersion>
     <AssemblyVersion>4.36.0.0</AssemblyVersion>
+    <AssemblyVersion>4.36.1.0</AssemblyVersion>
+    <AssemblyVersion>4.36.2.0</AssemblyVersion>
+    <AssemblyVersion>4.37.0.0</AssemblyVersion>
+    <AssemblyVersion>4.38.0.0</AssemblyVersion>
+    <AssemblyVersion>4.39.0.0</AssemblyVersion>
+    <AssemblyVersion>4.40.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Exception</BaseTypeName>
@@ -48,6 +54,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -76,6 +88,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="errorCode" Type="System.String" />
@@ -111,6 +129,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="errorCode" Type="System.String" />
@@ -148,6 +172,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="errorCode" Type="System.String" />
@@ -191,6 +221,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -224,6 +260,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.MsalException</ReturnType>
@@ -259,6 +301,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -291,6 +339,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

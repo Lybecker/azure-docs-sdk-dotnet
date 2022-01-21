@@ -48,7 +48,27 @@
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary> The id of the gallery artifact version source. Can specify a disk uri, snapshot uri, or user image. </summary>
+        <summary> The id of the gallery artifact version source. Can specify a disk uri, snapshot uri, user image or storage account resource. </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Uri">
+      <MemberSignature Language="C#" Value="public string Uri { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance string Uri" />
+      <MemberSignature Language="DocId" Value="P:Azure.ResourceManager.Compute.Models.GalleryArtifactVersionSource.Uri" />
+      <MemberSignature Language="VB.NET" Value="Public Property Uri As String" />
+      <MemberSignature Language="F#" Value="member this.Uri : string with get, set" Usage="Azure.ResourceManager.Compute.Models.GalleryArtifactVersionSource.Uri" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.ResourceManager.Compute</AssemblyName>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.String</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary> The uri of the gallery artifact version source. Currently used to specify vhd/blob source. </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>

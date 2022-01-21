@@ -13,6 +13,12 @@
     <AssemblyVersion>4.35.0.0</AssemblyVersion>
     <AssemblyVersion>4.35.1.0</AssemblyVersion>
     <AssemblyVersion>4.36.0.0</AssemblyVersion>
+    <AssemblyVersion>4.36.1.0</AssemblyVersion>
+    <AssemblyVersion>4.36.2.0</AssemblyVersion>
+    <AssemblyVersion>4.37.0.0</AssemblyVersion>
+    <AssemblyVersion>4.38.0.0</AssemblyVersion>
+    <AssemblyVersion>4.39.0.0</AssemblyVersion>
+    <AssemblyVersion>4.40.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
@@ -40,6 +46,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.Kerberos.KerberosKeyTypes</ReturnType>
@@ -67,6 +79,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.Kerberos.KerberosKeyTypes</ReturnType>
@@ -94,6 +112,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.Kerberos.KerberosKeyTypes</ReturnType>
@@ -121,6 +145,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.Kerberos.KerberosKeyTypes</ReturnType>
@@ -148,6 +178,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.Kerberos.KerberosKeyTypes</ReturnType>

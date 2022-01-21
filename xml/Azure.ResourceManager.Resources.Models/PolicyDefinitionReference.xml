@@ -5,7 +5,7 @@
   <TypeSignature Language="VB.NET" Value="Public Class PolicyDefinitionReference" />
   <TypeSignature Language="F#" Value="type PolicyDefinitionReference = class" />
   <AssemblyInfo>
-    <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+    <AssemblyName>Azure.ResourceManager</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -25,7 +25,7 @@
       <MemberSignature Language="F#" Value="new Azure.ResourceManager.Resources.Models.PolicyDefinitionReference : string -&gt; Azure.ResourceManager.Resources.Models.PolicyDefinitionReference" Usage="new Azure.ResourceManager.Resources.Models.PolicyDefinitionReference policyDefinitionId" />
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
@@ -47,7 +47,7 @@
       <MemberSignature Language="F#" Value="member this.GroupNames : System.Collections.Generic.IList&lt;string&gt;" Usage="Azure.ResourceManager.Resources.Models.PolicyDefinitionReference.GroupNames" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -67,7 +67,7 @@
       <MemberSignature Language="F#" Value="member this.Parameters : System.Collections.Generic.IDictionary&lt;string, Azure.ResourceManager.Resources.Models.ParameterValuesValue&gt;" Usage="Azure.ResourceManager.Resources.Models.PolicyDefinitionReference.Parameters" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -87,7 +87,7 @@
       <MemberSignature Language="F#" Value="member this.PolicyDefinitionId : string with get, set" Usage="Azure.ResourceManager.Resources.Models.PolicyDefinitionReference.PolicyDefinitionId" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -107,7 +107,7 @@
       <MemberSignature Language="F#" Value="member this.PolicyDefinitionReferenceId : string with get, set" Usage="Azure.ResourceManager.Resources.Models.PolicyDefinitionReference.PolicyDefinitionReferenceId" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

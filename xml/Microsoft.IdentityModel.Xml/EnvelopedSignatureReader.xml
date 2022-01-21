@@ -12,6 +12,11 @@
     <AssemblyVersion>6.12.0.0</AssemblyVersion>
     <AssemblyVersion>6.12.1.0</AssemblyVersion>
     <AssemblyVersion>6.12.2.0</AssemblyVersion>
+    <AssemblyVersion>6.13.1.0</AssemblyVersion>
+    <AssemblyVersion>6.14.0.0</AssemblyVersion>
+    <AssemblyVersion>6.14.1.0</AssemblyVersion>
+    <AssemblyVersion>6.15.0.0</AssemblyVersion>
+    <AssemblyVersion>6.15.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.IdentityModel.Xml.DelegatingXmlDictionaryReader</BaseTypeName>
@@ -41,6 +46,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="reader" Type="System.Xml.XmlReader" />
@@ -68,6 +78,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="reader" Type="System.Xml.XmlReader" />
@@ -97,6 +112,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -126,6 +146,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -155,6 +180,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.IdentityModel.Xml.DSigSerializer</ReturnType>
@@ -183,6 +213,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.IdentityModel.Xml.Signature</ReturnType>

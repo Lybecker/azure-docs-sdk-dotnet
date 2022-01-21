@@ -8,6 +8,13 @@
     <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
     <AssemblyVersion>4.22.0.0</AssemblyVersion>
     <AssemblyVersion>4.23.0.0</AssemblyVersion>
+    <AssemblyVersion>4.24.0.0</AssemblyVersion>
+    <AssemblyVersion>4.25.0.0</AssemblyVersion>
+    <AssemblyVersion>4.26.0.0</AssemblyVersion>
+    <AssemblyVersion>4.27.0.0</AssemblyVersion>
+    <AssemblyVersion>4.28.0.0</AssemblyVersion>
+    <AssemblyVersion>5.0.0.0</AssemblyVersion>
+    <AssemblyVersion>5.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -30,6 +37,13 @@
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -52,6 +66,13 @@
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="value" Type="System.Collections.Generic.IList&lt;Microsoft.Azure.Management.DataFactory.Models.IntegrationRuntimeOutboundNetworkDependenciesCategoryEndpoint&gt;" />
@@ -78,6 +99,13 @@
         <AssemblyName>Microsoft.Azure.Management.DataFactory</AssemblyName>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

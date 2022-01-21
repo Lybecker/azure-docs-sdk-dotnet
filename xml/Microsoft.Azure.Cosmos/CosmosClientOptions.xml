@@ -11,6 +11,10 @@
     <AssemblyVersion>3.19.0.0</AssemblyVersion>
     <AssemblyVersion>3.20.0.0</AssemblyVersion>
     <AssemblyVersion>3.20.1.0</AssemblyVersion>
+    <AssemblyVersion>3.21.0.0</AssemblyVersion>
+    <AssemblyVersion>3.22.0.0</AssemblyVersion>
+    <AssemblyVersion>3.22.1.0</AssemblyVersion>
+    <AssemblyVersion>3.23.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -49,6 +53,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -72,6 +80,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -98,6 +110,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -126,6 +142,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IReadOnlyList&lt;System.String&gt;</ReturnType>
@@ -138,6 +158,8 @@
         <remarks>
             When this property is specified, the SDK will use the region list in the provided order to define the endpoint failover order.
             This configuration is an alternative to <see cref="P:Microsoft.Azure.Cosmos.CosmosClientOptions.ApplicationRegion" />, either one can be set but not both.
+            See also <seealso href="https://docs.microsoft.com/azure/cosmos-db/sql/troubleshoot-sdk-availability">Diagnose
+            and troubleshoot the availability of Cosmos SDKs</seealso> for more details.
             </remarks>
       </Docs>
     </Member>
@@ -155,19 +177,27 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            Get or set the preferred geo-replicated region to be used for Azure Cosmos DB service interaction.
+            Gets or sets the location where the application is running. This will influence the SDK's choice for the Azure Cosmos DB service interaction.
             </summary>
         <value>To be added.</value>
         <remarks>
-            When this property is specified, the SDK prefers the region to perform operations. Also SDK auto-selects 
-            fallback geo-replicated regions for high availability. 
-            When this property is not specified, the SDK uses the write region as the preferred region for all operations.
+            When the specified region is available, the SDK will prefer it to perform operations. When the region specified is not available,
+            the SDK auto-selects fallback regions based on proximity from the given region. When
+            this property is not specified at all, the SDK uses the write region
+            as the preferred region for all operations. See also 
+            <seealso href="https://docs.microsoft.com/azure/cosmos-db/sql/troubleshoot-sdk-availability">Diagnose
+            and troubleshoot the availability of Cosmos SDKs</seealso> for more details.
+            This configuration is an alternative to <see cref="P:Microsoft.Azure.Cosmos.CosmosClientOptions.ApplicationPreferredRegions" />, either one can be set but not both.
             </remarks>
         <altmember cref="M:Microsoft.Azure.Cosmos.Fluent.CosmosClientBuilder.WithApplicationRegion(System.String)" />
       </Docs>
@@ -186,6 +216,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Cosmos.ConnectionMode</ReturnType>
@@ -217,6 +251,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Microsoft.Azure.Cosmos.ConsistencyLevel&gt;</ReturnType>
@@ -244,6 +282,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -277,6 +319,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Boolean&gt;</ReturnType>
@@ -312,6 +358,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -321,7 +371,7 @@
             Gets or sets the flag to enable address cache refresh on TCP connection reset notification.
             </summary>
         <value>
-            The default value is false
+            The default value is true
             </value>
         <remarks>
             Does not apply if <see cref="F:Microsoft.Azure.Cosmos.ConnectionMode.Gateway" /> is used.
@@ -342,6 +392,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -372,6 +426,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -414,6 +472,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.TimeSpan&gt;</ReturnType>
@@ -444,6 +506,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -476,6 +542,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -509,6 +579,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -555,6 +629,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.TimeSpan&gt;</ReturnType>
@@ -599,6 +677,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int32&gt;</ReturnType>
@@ -628,6 +710,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.TimeSpan&gt;</ReturnType>
@@ -658,6 +744,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;Microsoft.Azure.Cosmos.PortReuseMode&gt;</ReturnType>
@@ -690,6 +780,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.TimeSpan</ReturnType>
@@ -718,6 +812,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -763,6 +861,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Cosmos.CosmosSerializationOptions</ReturnType>
@@ -799,6 +901,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.TimeSpan&gt;</ReturnType>
@@ -828,6 +934,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

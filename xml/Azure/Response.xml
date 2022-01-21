@@ -12,6 +12,10 @@
     <AssemblyVersion>1.16.0.0</AssemblyVersion>
     <AssemblyVersion>1.17.0.0</AssemblyVersion>
     <AssemblyVersion>1.18.0.0</AssemblyVersion>
+    <AssemblyVersion>1.19.0.0</AssemblyVersion>
+    <AssemblyVersion>1.20.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.0.0</AssemblyVersion>
+    <AssemblyVersion>1.22.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -42,6 +46,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -64,6 +72,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -91,6 +103,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -123,6 +139,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -152,6 +172,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.IO.Stream</ReturnType>
@@ -182,6 +206,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -209,6 +237,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerable&lt;Azure.Core.HttpHeader&gt;</ReturnType>
@@ -237,6 +269,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;T&gt;</ReturnType>
@@ -274,6 +310,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ResponseHeaders</ReturnType>
@@ -281,6 +321,29 @@
       <Docs>
         <summary>
             Get the HTTP response headers.
+            </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="IsError">
+      <MemberSignature Language="C#" Value="public virtual bool IsError { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance bool IsError" />
+      <MemberSignature Language="DocId" Value="P:Azure.Response.IsError" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable ReadOnly Property IsError As Boolean" />
+      <MemberSignature Language="F#" Value="member this.IsError : bool" Usage="Azure.Response.IsError" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Boolean</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Indicates whether the status code of the returned response is considered
+            an error code.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -301,6 +364,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -328,6 +395,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -355,6 +426,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -383,6 +458,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -417,6 +496,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>

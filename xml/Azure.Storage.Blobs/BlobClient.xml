@@ -13,6 +13,7 @@
     <AssemblyVersion>12.9.0.0</AssemblyVersion>
     <AssemblyVersion>12.9.1.0</AssemblyVersion>
     <AssemblyVersion>12.10.0.0</AssemblyVersion>
+    <AssemblyVersion>12.11.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Storage.Blobs.Specialized.BlobBaseClient</BaseTypeName>
@@ -41,6 +42,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -67,6 +69,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="blobUri" Type="System.Uri" />
@@ -107,6 +110,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="connectionString" Type="System.String" />
@@ -152,6 +156,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="blobUri" Type="System.Uri" />
@@ -199,6 +204,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="blobUri" Type="System.Uri" />
@@ -243,6 +249,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="blobUri" Type="System.Uri" />
@@ -287,6 +294,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="connectionString" Type="System.String" />
@@ -334,6 +342,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -350,7 +359,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -384,6 +393,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -400,7 +410,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -434,6 +444,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -450,7 +461,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -480,6 +491,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -501,7 +513,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -535,6 +547,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -556,7 +569,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -590,6 +603,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -611,7 +625,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -641,6 +655,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -672,7 +687,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -702,6 +717,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -731,7 +747,7 @@
              overwrites any existing metadata on the blob.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -765,6 +781,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -796,7 +813,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -830,6 +847,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -856,7 +874,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -890,6 +908,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -921,7 +940,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -955,6 +974,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;</ReturnType>
@@ -981,7 +1001,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1015,6 +1035,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -1077,7 +1098,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1111,6 +1132,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -1173,7 +1195,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1203,6 +1225,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1220,7 +1243,7 @@
              existing block blob overwrites any existing metadata on the blob.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1254,6 +1277,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1271,7 +1295,7 @@
              existing block blob overwrites any existing metadata on the blob.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1305,6 +1329,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1321,7 +1346,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1351,6 +1376,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1372,7 +1398,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1406,6 +1432,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1427,7 +1454,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1461,6 +1488,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1482,7 +1510,7 @@
              creates a new block blob or throws if the blob already exists.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1512,6 +1540,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1543,7 +1572,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1573,6 +1602,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1602,7 +1632,7 @@
              overwrites any existing metadata on the blob.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1636,6 +1666,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1657,7 +1688,7 @@
              notifications that the operation should be cancelled.
              </param>
         <summary>
-             The <see cref="M:Azure.Storage.Blobs.BlobClient.UploadAsync(System.IO.Stream,Azure.Storage.Blobs.Models.BlobHttpHeaders,System.Collections.Generic.IDictionary{System.String,System.String},Azure.Storage.Blobs.Models.BlobRequestConditions,System.IProgress{System.Int64},System.Nullable{Azure.Storage.Blobs.Models.AccessTier},Azure.Storage.StorageTransferOptions,System.Threading.CancellationToken)" />
+             The <see cref="M:Azure.Storage.Blobs.BlobClient.UploadAsync(System.IO.Stream,Azure.Storage.Blobs.Models.BlobUploadOptions,System.Threading.CancellationToken)" />
              operation overwrites the contents of the blob, creating a new block
              blob if none exists.  Overwriting an existing block blob replaces
              any existing metadata on the blob.
@@ -1667,7 +1698,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1701,6 +1732,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1730,7 +1762,7 @@
              overwrites any existing metadata on the blob.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1764,6 +1796,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1795,7 +1828,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1829,6 +1862,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Blobs.Models.BlobContentInfo&gt;&gt;</ReturnType>
@@ -1858,7 +1892,7 @@
              overwrites any existing metadata on the blob.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1892,6 +1926,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -1927,6 +1962,10 @@
              Optional <see cref="T:Azure.Storage.Blobs.Models.BlobRequestConditions" /> to add conditions on
              the creation of this new block blob.
              </param>
+        <param name="transferOptions">
+             Optional <see cref="T:Azure.Storage.StorageTransferOptions" /> to configure
+             parallel transfer behavior.
+             </param>
         <param name="progressHandler">
              Optional <see cref="T:System.IProgress`1" /> to provide
              progress updates about data transfers.
@@ -1934,10 +1973,6 @@
         <param name="accessTier">
              Optional <see cref="T:Azure.Storage.Blobs.Models.AccessTier" />
              Indicates the tier to be set on the blob.
-             </param>
-        <param name="transferOptions">
-             Optional <see cref="T:Azure.Storage.StorageTransferOptions" /> to configure
-             parallel transfer behavior.
              </param>
         <param name="cancellationToken">
              Optional <see cref="T:System.Threading.CancellationToken" /> to propagate
@@ -1954,7 +1989,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -1988,6 +2023,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -2050,7 +2086,7 @@
              to avoid overwriting existing data.
             
              For partial block blob updates and other advanced features, please
-             see <see cref="P:Azure.Storage.Blobs.BlobClient.BlockBlobClient" />.  To create or modify page or
+             see <see cref="T:Azure.Storage.Blobs.Specialized.BlockBlobClient" />.  To create or modify page or
              append blobs, please see <see cref="T:Azure.Storage.Blobs.Specialized.PageBlobClient" /> or
              <see cref="T:Azure.Storage.Blobs.Specialized.AppendBlobClient" />.
             
@@ -2084,6 +2120,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.BlobClient</ReturnType>
@@ -2113,6 +2150,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.BlobClient</ReturnType>
@@ -2146,6 +2184,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.BlobClient</ReturnType>
@@ -2183,6 +2222,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.BlobClient</ReturnType>
@@ -2223,6 +2263,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.BlobClient</ReturnType>

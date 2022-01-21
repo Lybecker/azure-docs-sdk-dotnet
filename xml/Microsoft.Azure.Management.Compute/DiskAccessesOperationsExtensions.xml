@@ -10,6 +10,11 @@
     <AssemblyVersion>46.0.0.0</AssemblyVersion>
     <AssemblyVersion>47.0.0.0</AssemblyVersion>
     <AssemblyVersion>48.0.0.0</AssemblyVersion>
+    <AssemblyVersion>49.0.0.0</AssemblyVersion>
+    <AssemblyVersion>49.1.0.0</AssemblyVersion>
+    <AssemblyVersion>49.2.0.0</AssemblyVersion>
+    <AssemblyVersion>50.0.0.0</AssemblyVersion>
+    <AssemblyVersion>51.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -35,6 +40,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.DiskAccess</ReturnType>
@@ -55,7 +65,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="diskAccess">
@@ -81,6 +91,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;</ReturnType>
@@ -102,7 +117,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="diskAccess">
@@ -131,6 +146,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -150,7 +170,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <summary>
@@ -172,6 +192,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -192,11 +217,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <summary>
             Deletes a private endpoint connection under a disk access resource.
@@ -217,6 +242,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -238,11 +268,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -267,6 +297,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -287,7 +322,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="cancellationToken">
@@ -313,6 +348,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.DiskAccess</ReturnType>
@@ -333,7 +373,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="tags">
@@ -359,6 +399,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection</ReturnType>
@@ -380,11 +425,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <param name="privateEndpointConnection">
             private endpoint connection object supplied in the body of the Put private
@@ -411,6 +456,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection&gt;</ReturnType>
@@ -433,11 +483,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <param name="privateEndpointConnection">
             private endpoint connection object supplied in the body of the Put private
@@ -467,6 +517,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;</ReturnType>
@@ -488,7 +543,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="tags">
@@ -517,6 +572,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.DiskAccess</ReturnType>
@@ -537,7 +597,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="diskAccess">
@@ -563,6 +623,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;</ReturnType>
@@ -584,7 +649,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="diskAccess">
@@ -613,6 +678,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -632,7 +702,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <summary>
@@ -654,6 +724,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -674,11 +749,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <summary>
             Deletes a private endpoint connection under a disk access resource.
@@ -699,6 +774,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -720,11 +800,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -749,6 +829,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -769,7 +854,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="cancellationToken">
@@ -795,6 +880,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.DiskAccess</ReturnType>
@@ -814,7 +904,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <summary>
@@ -837,6 +927,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection</ReturnType>
@@ -857,11 +952,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <summary>
             Gets information about a private endpoint connection under a disk access
@@ -884,6 +979,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection&gt;</ReturnType>
@@ -905,11 +1005,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -935,6 +1035,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;</ReturnType>
@@ -955,7 +1060,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="cancellationToken">
@@ -981,6 +1086,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.PrivateLinkResourceListResult</ReturnType>
@@ -1000,7 +1110,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <summary>
@@ -1023,6 +1133,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.PrivateLinkResourceListResult&gt;</ReturnType>
@@ -1043,7 +1158,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="cancellationToken">
@@ -1069,6 +1184,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;</ReturnType>
@@ -1100,6 +1220,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;&gt;</ReturnType>
@@ -1135,6 +1260,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;</ReturnType>
@@ -1170,6 +1300,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;&gt;</ReturnType>
@@ -1209,6 +1344,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;</ReturnType>
@@ -1244,6 +1384,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;&gt;</ReturnType>
@@ -1283,6 +1428,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;</ReturnType>
@@ -1318,6 +1468,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;&gt;</ReturnType>
@@ -1357,6 +1512,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection&gt;</ReturnType>
@@ -1376,7 +1536,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <summary>
@@ -1400,6 +1560,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection&gt;&gt;</ReturnType>
@@ -1420,7 +1585,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="cancellationToken">
@@ -1447,6 +1612,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection&gt;</ReturnType>
@@ -1483,6 +1653,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection&gt;&gt;</ReturnType>
@@ -1523,6 +1698,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.DiskAccess</ReturnType>
@@ -1543,7 +1723,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="tags">
@@ -1569,6 +1749,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection</ReturnType>
@@ -1590,11 +1775,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <param name="privateEndpointConnection">
             private endpoint connection object supplied in the body of the Put private
@@ -1621,6 +1806,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.PrivateEndpointConnection&gt;</ReturnType>
@@ -1643,11 +1833,11 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="privateEndpointConnectionName">
-            The name of the private endpoint connection
+            The name of the private endpoint connection.
             </param>
         <param name="privateEndpointConnection">
             private endpoint connection object supplied in the body of the Put private
@@ -1677,6 +1867,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.DiskAccess&gt;</ReturnType>
@@ -1698,7 +1893,7 @@
         <param name="diskAccessName">
             The name of the disk access resource that is being created. The name can't
             be changed after the disk encryption set is created. Supported characters
-            for the name are a-z, A-Z, 0-9 and _. The maximum name length is 80
+            for the name are a-z, A-Z, 0-9, _ and -. The maximum name length is 80
             characters.
             </param>
         <param name="tags">

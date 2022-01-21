@@ -5,7 +5,7 @@
   <TypeSignature Language="VB.NET" Value="Public Class ParameterValuesValue" />
   <TypeSignature Language="F#" Value="type ParameterValuesValue = class" />
   <AssemblyInfo>
-    <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+    <AssemblyName>Azure.ResourceManager</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -24,7 +24,7 @@
       <MemberSignature Language="VB.NET" Value="Public Sub New ()" />
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -41,7 +41,7 @@
       <MemberSignature Language="F#" Value="member this.Value : obj with get, set" Usage="Azure.ResourceManager.Resources.Models.ParameterValuesValue.Value" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

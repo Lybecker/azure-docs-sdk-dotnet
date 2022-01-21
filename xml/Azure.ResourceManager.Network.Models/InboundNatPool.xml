@@ -114,18 +114,18 @@
       </Docs>
     </Member>
     <Member MemberName="FrontendIPConfiguration">
-      <MemberSignature Language="C#" Value="public Azure.ResourceManager.Network.Models.SubResource FrontendIPConfiguration { get; set; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance class Azure.ResourceManager.Network.Models.SubResource FrontendIPConfiguration" />
+      <MemberSignature Language="C#" Value="public Azure.ResourceManager.Resources.Models.WritableSubResource FrontendIPConfiguration { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class Azure.ResourceManager.Resources.Models.WritableSubResource FrontendIPConfiguration" />
       <MemberSignature Language="DocId" Value="P:Azure.ResourceManager.Network.Models.InboundNatPool.FrontendIPConfiguration" />
-      <MemberSignature Language="VB.NET" Value="Public Property FrontendIPConfiguration As SubResource" />
-      <MemberSignature Language="F#" Value="member this.FrontendIPConfiguration : Azure.ResourceManager.Network.Models.SubResource with get, set" Usage="Azure.ResourceManager.Network.Models.InboundNatPool.FrontendIPConfiguration" />
+      <MemberSignature Language="VB.NET" Value="Public Property FrontendIPConfiguration As WritableSubResource" />
+      <MemberSignature Language="F#" Value="member this.FrontendIPConfiguration : Azure.ResourceManager.Resources.Models.WritableSubResource with get, set" Usage="Azure.ResourceManager.Network.Models.InboundNatPool.FrontendIPConfiguration" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
-        <ReturnType>Azure.ResourceManager.Network.Models.SubResource</ReturnType>
+        <ReturnType>Azure.ResourceManager.Resources.Models.WritableSubResource</ReturnType>
       </ReturnValue>
       <Docs>
         <summary> A reference to frontend IP addresses. </summary>

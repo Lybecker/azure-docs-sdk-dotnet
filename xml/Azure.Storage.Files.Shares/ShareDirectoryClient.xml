@@ -10,6 +10,7 @@
     <AssemblyVersion>12.6.2.0</AssemblyVersion>
     <AssemblyVersion>12.7.0.0</AssemblyVersion>
     <AssemblyVersion>12.8.0.0</AssemblyVersion>
+    <AssemblyVersion>12.9.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -34,6 +35,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -57,6 +59,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="directoryUri" Type="System.Uri" />
@@ -93,6 +96,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="connectionString" Type="System.String" />
@@ -133,6 +137,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="directoryUri" Type="System.Uri" />
@@ -176,6 +181,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="directoryUri" Type="System.Uri" />
@@ -216,6 +222,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="connectionString" Type="System.String" />
@@ -262,6 +269,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -287,6 +295,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -313,6 +322,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryInfo&gt;</ReturnType>
@@ -368,6 +378,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryInfo&gt;&gt;</ReturnType>
@@ -423,6 +434,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -496,6 +508,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Files.Shares.ShareFileClient&gt;</ReturnType>
@@ -568,6 +581,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -641,6 +655,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Files.Shares.ShareFileClient&gt;&gt;</ReturnType>
@@ -713,6 +728,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryInfo&gt;</ReturnType>
@@ -769,6 +785,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryInfo&gt;&gt;</ReturnType>
@@ -825,6 +842,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Files.Shares.ShareDirectoryClient&gt;</ReturnType>
@@ -882,6 +900,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Files.Shares.ShareDirectoryClient&gt;&gt;</ReturnType>
@@ -939,6 +958,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -979,6 +999,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&gt;</ReturnType>
@@ -1019,6 +1040,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -1069,6 +1091,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -1118,6 +1141,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -1168,6 +1192,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&gt;</ReturnType>
@@ -1217,6 +1242,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;System.Boolean&gt;</ReturnType>
@@ -1258,6 +1284,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;System.Boolean&gt;&gt;</ReturnType>
@@ -1299,6 +1326,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -1342,6 +1370,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&gt;</ReturnType>
@@ -1385,6 +1414,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;System.Boolean&gt;</ReturnType>
@@ -1424,6 +1454,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;System.Boolean&gt;&gt;</ReturnType>
@@ -1463,6 +1494,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Files.Shares.Models.CloseHandlesResult</ReturnType>
@@ -1517,6 +1549,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Storage.Files.Shares.Models.CloseHandlesResult&gt;</ReturnType>
@@ -1571,6 +1604,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Files.Shares.Models.CloseHandlesResult&gt;</ReturnType>
@@ -1624,6 +1658,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Files.Shares.Models.CloseHandlesResult&gt;&gt;</ReturnType>
@@ -1677,6 +1712,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -1723,6 +1759,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -1775,6 +1812,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Files.Shares.ShareFileClient</ReturnType>
@@ -1804,13 +1842,14 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.Shares</AssemblyName>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="options" Type="Azure.Storage.Files.Shares.Models.ShareDirectoryGetFilesAndDirectoriesOptions" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.Storage.Files.Shares.Models.ShareDirectoryGetFilesAndDirectoriesOptions" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="options">
@@ -1841,13 +1880,11 @@
       </Docs>
     </Member>
     <Member MemberName="GetFilesAndDirectories">
-      <MemberSignature Language="C#" Value="public virtual Azure.Pageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt; GetFilesAndDirectories (string prefix = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual Azure.Pageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt; GetFilesAndDirectories (string prefix, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Pageable`1&lt;class Azure.Storage.Files.Shares.Models.ShareFileItem&gt; GetFilesAndDirectories(string prefix, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.Storage.Files.Shares.ShareDirectoryClient.GetFilesAndDirectories(System.String,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetFilesAndDirectories (Optional prefix As String = Nothing, Optional cancellationToken As CancellationToken = Nothing) As Pageable(Of ShareFileItem)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetFilesAndDirectories (prefix As String, Optional cancellationToken As CancellationToken = Nothing) As Pageable(Of ShareFileItem)" />
       <MemberSignature Language="F#" Value="abstract member GetFilesAndDirectories : string * System.Threading.CancellationToken -&gt; Azure.Pageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt;&#xA;override this.GetFilesAndDirectories : string * System.Threading.CancellationToken -&gt; Azure.Pageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt;" Usage="shareDirectoryClient.GetFilesAndDirectories (prefix, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual Azure.Pageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt; GetFilesAndDirectories (string prefix, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetFilesAndDirectories (prefix As String, Optional cancellationToken As CancellationToken = Nothing) As Pageable(Of ShareFileItem)" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.Shares</AssemblyName>
@@ -1855,6 +1892,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt;</ReturnType>
@@ -1902,13 +1940,14 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.Shares</AssemblyName>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="options" Type="Azure.Storage.Files.Shares.Models.ShareDirectoryGetFilesAndDirectoriesOptions" Index="0" FrameworkAlternate="azure-dotnet-preview" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="options" Type="Azure.Storage.Files.Shares.Models.ShareDirectoryGetFilesAndDirectoriesOptions" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
       </Parameters>
       <Docs>
         <param name="options">
@@ -1939,13 +1978,11 @@
       </Docs>
     </Member>
     <Member MemberName="GetFilesAndDirectoriesAsync">
-      <MemberSignature Language="C#" Value="public virtual Azure.AsyncPageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt; GetFilesAndDirectoriesAsync (string prefix = default, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public virtual Azure.AsyncPageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt; GetFilesAndDirectoriesAsync (string prefix, System.Threading.CancellationToken cancellationToken = default);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.AsyncPageable`1&lt;class Azure.Storage.Files.Shares.Models.ShareFileItem&gt; GetFilesAndDirectoriesAsync(string prefix, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.Storage.Files.Shares.ShareDirectoryClient.GetFilesAndDirectoriesAsync(System.String,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetFilesAndDirectoriesAsync (Optional prefix As String = Nothing, Optional cancellationToken As CancellationToken = Nothing) As AsyncPageable(Of ShareFileItem)" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetFilesAndDirectoriesAsync (prefix As String, Optional cancellationToken As CancellationToken = Nothing) As AsyncPageable(Of ShareFileItem)" />
       <MemberSignature Language="F#" Value="abstract member GetFilesAndDirectoriesAsync : string * System.Threading.CancellationToken -&gt; Azure.AsyncPageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt;&#xA;override this.GetFilesAndDirectoriesAsync : string * System.Threading.CancellationToken -&gt; Azure.AsyncPageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt;" Usage="shareDirectoryClient.GetFilesAndDirectoriesAsync (prefix, cancellationToken)" />
-      <MemberSignature Language="C#" Value="public virtual Azure.AsyncPageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt; GetFilesAndDirectoriesAsync (string prefix, System.Threading.CancellationToken cancellationToken = default);" FrameworkAlternate="azure-dotnet-preview" />
-      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetFilesAndDirectoriesAsync (prefix As String, Optional cancellationToken As CancellationToken = Nothing) As AsyncPageable(Of ShareFileItem)" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Files.Shares</AssemblyName>
@@ -1953,6 +1990,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.Storage.Files.Shares.Models.ShareFileItem&gt;</ReturnType>
@@ -2003,6 +2041,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.Storage.Files.Shares.Models.ShareFileHandle&gt;</ReturnType>
@@ -2052,6 +2091,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.Storage.Files.Shares.Models.ShareFileHandle&gt;</ReturnType>
@@ -2101,6 +2141,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryProperties&gt;</ReturnType>
@@ -2146,6 +2187,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryProperties&gt;&gt;</ReturnType>
@@ -2191,6 +2233,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Files.Shares.ShareDirectoryClient</ReturnType>
@@ -2223,6 +2266,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -2248,6 +2292,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -2273,6 +2318,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryInfo&gt;</ReturnType>
@@ -2324,6 +2370,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryInfo&gt;&gt;</ReturnType>
@@ -2373,6 +2420,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryInfo&gt;</ReturnType>
@@ -2419,6 +2467,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Storage.Files.Shares.Models.ShareDirectoryInfo&gt;&gt;</ReturnType>
@@ -2465,6 +2514,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -2490,6 +2540,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -2515,6 +2566,7 @@
         <AssemblyVersion>12.6.2.0</AssemblyVersion>
         <AssemblyVersion>12.7.0.0</AssemblyVersion>
         <AssemblyVersion>12.8.0.0</AssemblyVersion>
+        <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Files.Shares.ShareDirectoryClient</ReturnType>

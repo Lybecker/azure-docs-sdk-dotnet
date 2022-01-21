@@ -19,6 +19,14 @@
     <AssemblyVersion>1.15.1.0</AssemblyVersion>
     <AssemblyVersion>1.15.2.0</AssemblyVersion>
     <AssemblyVersion>1.16.0.0</AssemblyVersion>
+    <AssemblyVersion>1.16.1.0</AssemblyVersion>
+    <AssemblyVersion>1.17.0.0</AssemblyVersion>
+    <AssemblyVersion>1.18.0.0</AssemblyVersion>
+    <AssemblyVersion>1.19.0.0</AssemblyVersion>
+    <AssemblyVersion>1.20.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.1.0</AssemblyVersion>
+    <AssemblyVersion>1.22.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.AspNetCore.Authentication.OpenIdConnect.OpenIdConnectOptions</BaseTypeName>
@@ -52,6 +60,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -81,6 +97,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -119,6 +143,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerable&lt;Microsoft.Identity.Web.CertificateDescription&gt;</ReturnType>
@@ -166,6 +198,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -200,6 +240,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -234,6 +282,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -241,6 +297,35 @@
       <Docs>
         <summary>
             Gets or sets the edit profile user flow name for B2C, e.g. b2c_1_edit_profile.
+            </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="ErrorPath">
+      <MemberSignature Language="C#" Value="public Microsoft.AspNetCore.Http.PathString ErrorPath { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype Microsoft.AspNetCore.Http.PathString ErrorPath" />
+      <MemberSignature Language="DocId" Value="P:Microsoft.Identity.Web.MicrosoftIdentityOptions.ErrorPath" />
+      <MemberSignature Language="VB.NET" Value="Public Property ErrorPath As PathString" />
+      <MemberSignature Language="F#" Value="member this.ErrorPath : Microsoft.AspNetCore.Http.PathString with get, set" Usage="Microsoft.Identity.Web.MicrosoftIdentityOptions.ErrorPath" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Identity.Web</AssemblyName>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.AspNetCore.Http.PathString</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Sets the Error route path.
+            Defaults to the value /MicrosoftIdentity/Account/Error,
+            which is the value used by Microsoft.Identity.Web.UI.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -268,6 +353,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -302,6 +395,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -315,6 +416,35 @@
         <value>To be added.</value>
         <remarks>To be added.</remarks>
         <c>false.</c>
+      </Docs>
+    </Member>
+    <Member MemberName="ResetPasswordPath">
+      <MemberSignature Language="C#" Value="public Microsoft.AspNetCore.Http.PathString ResetPasswordPath { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance valuetype Microsoft.AspNetCore.Http.PathString ResetPasswordPath" />
+      <MemberSignature Language="DocId" Value="P:Microsoft.Identity.Web.MicrosoftIdentityOptions.ResetPasswordPath" />
+      <MemberSignature Language="VB.NET" Value="Public Property ResetPasswordPath As PathString" />
+      <MemberSignature Language="F#" Value="member this.ResetPasswordPath : Microsoft.AspNetCore.Http.PathString with get, set" Usage="Microsoft.Identity.Web.MicrosoftIdentityOptions.ResetPasswordPath" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Identity.Web</AssemblyName>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.AspNetCore.Http.PathString</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Sets the ResetPassword route path.
+            Defaults to /MicrosoftIdentity/Account/ResetPassword,
+            which is the value used by Microsoft.Identity.Web.UI.
+            </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
       </Docs>
     </Member>
     <Member MemberName="ResetPasswordPolicyId">
@@ -339,6 +469,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -373,6 +511,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -413,6 +559,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -447,6 +601,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -481,6 +643,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerable&lt;Microsoft.Identity.Web.CertificateDescription&gt;</ReturnType>
@@ -488,7 +658,6 @@
       <Docs>
         <summary>
             Description of the certificates used to decrypt an encrypted token in a web API.
-            For the moment only the first certificate is considered.
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
@@ -528,6 +697,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

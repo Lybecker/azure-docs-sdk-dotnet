@@ -12,6 +12,11 @@
     <AssemblyVersion>6.12.0.0</AssemblyVersion>
     <AssemblyVersion>6.12.1.0</AssemblyVersion>
     <AssemblyVersion>6.12.2.0</AssemblyVersion>
+    <AssemblyVersion>6.13.1.0</AssemblyVersion>
+    <AssemblyVersion>6.14.0.0</AssemblyVersion>
+    <AssemblyVersion>6.14.1.0</AssemblyVersion>
+    <AssemblyVersion>6.15.0.0</AssemblyVersion>
+    <AssemblyVersion>6.15.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ValueType</BaseTypeName>
@@ -20,7 +25,7 @@
   <Docs>
     <summary>
             List of registered claims from different sources
-            http://tools.ietf.org/html/rfc7519#section-4
+            https://datatracker.ietf.org/doc/html/rfc7519#section-4
             http://openid.net/specs/openid-connect-core-1_0.html#IDToken
             </summary>
     <remarks>To be added.</remarks>
@@ -41,6 +46,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -67,6 +77,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -91,6 +106,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -117,6 +137,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -143,13 +168,18 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            http://tools.ietf.org/html/rfc7519#section-4
+            https://datatracker.ietf.org/doc/html/rfc7519#section-4
             </summary>
         <remarks>To be added.</remarks>
       </Docs>
@@ -169,6 +199,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -195,6 +230,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -221,6 +261,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -247,6 +292,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -273,6 +323,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -299,13 +354,18 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            http://tools.ietf.org/html/rfc7519#section-4
+            https://datatracker.ietf.org/doc/html/rfc7519#section-4
             </summary>
         <remarks>To be added.</remarks>
       </Docs>
@@ -325,6 +385,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -351,6 +416,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -377,6 +447,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -403,13 +478,18 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            http://tools.ietf.org/html/rfc7519#section-4
+            https://datatracker.ietf.org/doc/html/rfc7519#section-4
             </summary>
         <remarks>To be added.</remarks>
       </Docs>
@@ -429,13 +509,18 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            http://tools.ietf.org/html/rfc7519#section-4
+            https://datatracker.ietf.org/doc/html/rfc7519#section-4
             </summary>
         <remarks>To be added.</remarks>
       </Docs>
@@ -455,13 +540,18 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            http://tools.ietf.org/html/rfc7519#section-4
+            https://datatracker.ietf.org/doc/html/rfc7519#section-4
             </summary>
         <remarks>To be added.</remarks>
       </Docs>
@@ -481,6 +571,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -507,6 +602,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -531,13 +631,18 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            http://tools.ietf.org/html/rfc7519#section-4
+            https://datatracker.ietf.org/doc/html/rfc7519#section-4
             </summary>
         <remarks>To be added.</remarks>
       </Docs>
@@ -557,6 +662,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -583,6 +693,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -607,6 +722,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -633,13 +753,18 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            http://tools.ietf.org/html/rfc7519#section-4
+            https://datatracker.ietf.org/doc/html/rfc7519#section-4
             </summary>
         <remarks>To be added.</remarks>
       </Docs>
@@ -659,13 +784,18 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-            http://tools.ietf.org/html/rfc7519#section-5
+            https://datatracker.ietf.org/doc/html/rfc7519#section-5
             </summary>
         <remarks>To be added.</remarks>
       </Docs>
@@ -685,6 +815,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -709,6 +844,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

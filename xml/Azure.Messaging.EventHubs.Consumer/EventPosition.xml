@@ -10,6 +10,9 @@
     <AssemblyVersion>5.4.1.0</AssemblyVersion>
     <AssemblyVersion>5.5.0.0</AssemblyVersion>
     <AssemblyVersion>5.6.0.0</AssemblyVersion>
+    <AssemblyVersion>5.6.1.0</AssemblyVersion>
+    <AssemblyVersion>5.6.2.0</AssemblyVersion>
+    <AssemblyVersion>5.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ValueType</BaseTypeName>
@@ -40,6 +43,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.Consumer.EventPosition</ReturnType>
@@ -70,6 +76,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -100,6 +109,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -136,6 +148,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.Consumer.EventPosition</ReturnType>
@@ -166,6 +181,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.Consumer.EventPosition</ReturnType>
@@ -197,6 +215,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.Consumer.EventPosition</ReturnType>
@@ -228,6 +249,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -260,6 +284,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.Consumer.EventPosition</ReturnType>
@@ -287,6 +314,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -319,6 +349,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -351,9 +384,12 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
-        <Attribute>
+        <Attribute FrameworkAlternate="azure-dotnet">
           <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
         </Attribute>
@@ -366,7 +402,7 @@
         <summary>
                Converts the instance to string representation.
              </summary>
-        <returns>A <see cref="T:System.String" /> that represents this instance.</returns>
+        <returns>A <see cref="T:System.String" /> that represents the position in the event stream.</returns>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>

@@ -7,13 +7,16 @@
   <AssemblyInfo>
     <AssemblyName>Azure.Storage.Blobs</AssemblyName>
     <AssemblyVersion>12.10.0.0</AssemblyVersion>
+    <AssemblyVersion>12.11.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Storage.Blobs.Models.BlobQueryTextOptions</BaseTypeName>
   </Base>
   <Interfaces />
   <Docs>
-    <summary>To be added.</summary>
+    <summary>
+            Parquery text configuration.
+            </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
@@ -26,6 +29,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>

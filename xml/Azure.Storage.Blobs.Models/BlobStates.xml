@@ -13,6 +13,7 @@
     <AssemblyVersion>12.9.0.0</AssemblyVersion>
     <AssemblyVersion>12.9.1.0</AssemblyVersion>
     <AssemblyVersion>12.10.0.0</AssemblyVersion>
+    <AssemblyVersion>12.11.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
@@ -49,6 +50,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobStates</ReturnType>
@@ -76,6 +78,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobStates</ReturnType>
@@ -98,13 +101,17 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobStates</ReturnType>
       </ReturnValue>
       <MemberValue>16</MemberValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>
+            Flag specifying to list blobs that were deleted with
+            versioning enabled.
+            </summary>
       </Docs>
     </Member>
     <Member MemberName="None">
@@ -123,6 +130,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobStates</ReturnType>
@@ -150,6 +158,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobStates</ReturnType>
@@ -178,6 +187,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobStates</ReturnType>
@@ -208,6 +218,7 @@
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
         <AssemblyVersion>12.9.1.0</AssemblyVersion>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobStates</ReturnType>

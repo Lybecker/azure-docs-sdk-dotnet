@@ -12,6 +12,10 @@
     <AssemblyVersion>1.16.0.0</AssemblyVersion>
     <AssemblyVersion>1.17.0.0</AssemblyVersion>
     <AssemblyVersion>1.18.0.0</AssemblyVersion>
+    <AssemblyVersion>1.19.0.0</AssemblyVersion>
+    <AssemblyVersion>1.20.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.0.0</AssemblyVersion>
+    <AssemblyVersion>1.22.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Diagnostics.Tracing.EventListener</BaseTypeName>
@@ -39,6 +43,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="log" Type="System.Action&lt;System.Diagnostics.Tracing.EventWrittenEventArgs,System.String&gt;" />
@@ -68,6 +76,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Diagnostics.AzureEventSourceListener</ReturnType>
@@ -99,6 +111,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Diagnostics.AzureEventSourceListener</ReturnType>
@@ -130,6 +146,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -159,6 +179,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -188,6 +212,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -214,6 +242,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

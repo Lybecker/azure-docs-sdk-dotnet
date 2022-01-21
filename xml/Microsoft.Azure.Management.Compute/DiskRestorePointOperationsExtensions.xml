@@ -10,6 +10,11 @@
     <AssemblyVersion>46.0.0.0</AssemblyVersion>
     <AssemblyVersion>47.0.0.0</AssemblyVersion>
     <AssemblyVersion>48.0.0.0</AssemblyVersion>
+    <AssemblyVersion>49.0.0.0</AssemblyVersion>
+    <AssemblyVersion>49.1.0.0</AssemblyVersion>
+    <AssemblyVersion>49.2.0.0</AssemblyVersion>
+    <AssemblyVersion>50.0.0.0</AssemblyVersion>
+    <AssemblyVersion>51.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -32,6 +37,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.AccessUri</ReturnType>
@@ -53,17 +63,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <param name="grantAccessData">
             Access data object supplied in the body of the get disk access operation.
@@ -85,6 +91,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.AccessUri&gt;</ReturnType>
@@ -107,17 +118,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <param name="grantAccessData">
             Access data object supplied in the body of the get disk access operation.
@@ -142,6 +149,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -162,17 +174,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <summary>
             Revokes access to a diskRestorePoint.
@@ -190,6 +198,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -211,17 +224,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -246,6 +255,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.DiskRestorePoint</ReturnType>
@@ -266,17 +280,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <summary>
             Get disk restorePoint resource
@@ -298,6 +308,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.DiskRestorePoint&gt;</ReturnType>
@@ -319,17 +334,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -351,6 +362,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.AccessUri</ReturnType>
@@ -372,17 +388,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <param name="grantAccessData">
             Access data object supplied in the body of the get disk access operation.
@@ -404,6 +416,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.AccessUri&gt;</ReturnType>
@@ -426,17 +443,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <param name="grantAccessData">
             Access data object supplied in the body of the get disk access operation.
@@ -464,6 +477,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskRestorePoint&gt;</ReturnType>
@@ -483,13 +501,10 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <summary>
             Lists diskRestorePoints under a vmRestorePoint.
@@ -511,6 +526,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskRestorePoint&gt;&gt;</ReturnType>
@@ -531,13 +551,10 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -562,6 +579,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskRestorePoint&gt;</ReturnType>
@@ -597,6 +619,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.DiskRestorePoint&gt;&gt;</ReturnType>
@@ -633,6 +660,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -653,17 +685,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <summary>
             Revokes access to a diskRestorePoint.
@@ -681,6 +709,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -702,17 +735,13 @@
             </param>
         <param name="restorePointCollectionName">
             The name of the restore point collection that the disk restore point
-            belongs. Supported characters for the name are a-z, A-Z, 0-9 and _. The
-            maximum name length is 80 characters.
+            belongs.
             </param>
         <param name="vmRestorePointName">
             The name of the vm restore point that the disk disk restore point belongs.
-            Supported characters for the name are a-z, A-Z, 0-9 and _. The maximum name
-            length is 80 characters.
             </param>
         <param name="diskRestorePointName">
-            The name of the disk restore point created. Supported characters for the
-            name are a-z, A-Z, 0-9 and _. The maximum name length is 80 characters.
+            The name of the disk restore point created.
             </param>
         <param name="cancellationToken">
             The cancellation token.

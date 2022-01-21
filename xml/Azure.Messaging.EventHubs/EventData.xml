@@ -1,28 +1,53 @@
 <Type Name="EventData" FullName="Azure.Messaging.EventHubs.EventData">
-  <TypeSignature Language="C#" Value="public class EventData" />
-  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit EventData extends System.Object" />
+  <TypeSignature Language="C#" Value="public class EventData" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit EventData extends System.Object" FrameworkAlternate="azure-dotnet" />
   <TypeSignature Language="DocId" Value="T:Azure.Messaging.EventHubs.EventData" />
-  <TypeSignature Language="VB.NET" Value="Public Class EventData" />
-  <TypeSignature Language="F#" Value="type EventData = class" />
+  <TypeSignature Language="VB.NET" Value="Public Class EventData" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="F#" Value="type EventData = class" FrameworkAlternate="azure-dotnet" />
+  <TypeSignature Language="C#" Value="public class EventData : Azure.Messaging.MessageWithMetadata" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit EventData extends Azure.Messaging.MessageWithMetadata" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="VB.NET" Value="Public Class EventData&#xA;Inherits MessageWithMetadata" FrameworkAlternate="azure-dotnet-preview" />
+  <TypeSignature Language="F#" Value="type EventData = class&#xA;    inherit MessageWithMetadata" FrameworkAlternate="azure-dotnet-preview" />
   <AssemblyInfo>
     <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
     <AssemblyVersion>5.4.0.0</AssemblyVersion>
     <AssemblyVersion>5.4.1.0</AssemblyVersion>
     <AssemblyVersion>5.5.0.0</AssemblyVersion>
     <AssemblyVersion>5.6.0.0</AssemblyVersion>
+    <AssemblyVersion>5.6.1.0</AssemblyVersion>
+    <AssemblyVersion>5.6.2.0</AssemblyVersion>
+    <AssemblyVersion>5.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
+    <BaseTypeName FrameworkAlternate="azure-dotnet-preview">Azure.Messaging.MessageWithMetadata</BaseTypeName>
   </Base>
   <Interfaces />
   <Docs>
     <summary>
-               A set of data encapsulating an event and the associated metadata for
-               use with Event Hubs operations.
+               An Event Hubs event, encapsulating a set of data and its associated metadata.
              </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
+    <Member MemberName=".ctor">
+      <MemberSignature Language="C#" Value="public EventData ();" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor() cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Messaging.EventHubs.EventData.#ctor" />
+      <MemberSignature Language="VB.NET" Value="Public Sub New ()" />
+      <MemberType>Constructor</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Parameters />
+      <Docs>
+        <summary>
+               Initializes a new instance of the <see cref="T:Azure.Messaging.EventHubs.EventData" /> class.
+             </summary>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName=".ctor">
       <MemberSignature Language="C#" Value="public EventData (BinaryData eventBody);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig specialname rtspecialname instance void .ctor(class System.BinaryData eventBody) cil managed" />
@@ -36,6 +61,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="eventBody" Type="System.BinaryData" />
@@ -61,6 +89,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="eventBody" Type="System.ReadOnlyMemory&lt;System.Byte&gt;" />
@@ -84,6 +115,9 @@
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="eventBody" Type="System.String" />
@@ -109,6 +143,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -158,6 +195,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -207,6 +247,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -243,6 +286,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -272,16 +318,21 @@
       </Docs>
     </Member>
     <Member MemberName="ContentType">
-      <MemberSignature Language="C#" Value="public string ContentType { get; set; }" />
+      <MemberSignature Language="C#" Value="public string ContentType { get; set; }" FrameworkAlternate="azure-dotnet" />
       <MemberSignature Language="ILAsm" Value=".property instance string ContentType" />
       <MemberSignature Language="DocId" Value="P:Azure.Messaging.EventHubs.EventData.ContentType" />
-      <MemberSignature Language="VB.NET" Value="Public Property ContentType As String" />
+      <MemberSignature Language="VB.NET" Value="Public Property ContentType As String" FrameworkAlternate="azure-dotnet" />
       <MemberSignature Language="F#" Value="member this.ContentType : string with get, set" Usage="Azure.Messaging.EventHubs.EventData.ContentType" />
+      <MemberSignature Language="C#" Value="public override string ContentType { get; set; }" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides Property ContentType As String" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -299,8 +350,11 @@
                used.
              </value>
         <remarks>
-               The <see cref="P:Azure.Messaging.EventHubs.EventData.ContentType" /> is intended to allow coordination between event
-               producers and consumers.  It has no meaning to the Event Hubs service.
+               The <see cref="P:Azure.Messaging.EventHubs.EventData.ContentType" /> is managed by the application and is intended to
+               allow coordination between event producers and consumers.
+            
+               Event Hubs does not read, generate, or populate this value.  It does not influence
+               how Event Hubs stores or manages the event.
              </remarks>
       </Docs>
     </Member>
@@ -315,6 +369,9 @@
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -328,8 +385,40 @@
         <value>To be added.</value>
         <remarks>
                The <see cref="P:Azure.Messaging.EventHubs.EventData.CorrelationId" /> is intended to enable tracing of data within an application,
-               such as an event's path from producer to consumer.  It has no meaning to the Event Hubs service.
+               such as an event's path from producer to consumer.
+            
+               Event Hubs does not read, generate, or populate this value.  It does not influence Event Hubs
+               telemetry, distributed tracing, or logging.
              </remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="Data">
+      <MemberSignature Language="C#" Value="public override BinaryData Data { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.BinaryData Data" />
+      <MemberSignature Language="DocId" Value="P:Azure.Messaging.EventHubs.EventData.Data" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides Property Data As BinaryData" />
+      <MemberSignature Language="F#" Value="member this.Data : BinaryData with get, set" Usage="Azure.Messaging.EventHubs.EventData.Data" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>System.BinaryData</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+               Hidden property that shadows the <see cref="P:Azure.Messaging.EventHubs.EventData.EventBody" /> property. This is added
+               in order to inherit from <see cref="T:Azure.Messaging.MessageWithMetadata" />.
+             </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
       </Docs>
     </Member>
     <Member MemberName="EnqueuedTime">
@@ -345,6 +434,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.DateTimeOffset</ReturnType>
@@ -353,7 +445,10 @@
         <summary>
                The date and time, in UTC, of when the event was enqueued in the Event Hub partition.
              </summary>
-        <value>To be added.</value>
+        <value>
+               This value is read-only and will only be populated for events that have been read from Event Hubs. The default value
+               when not populated is <c>default(DateTimeOffset)</c>.
+             </value>
         <remarks>
                This property is only populated for events received from the Event Hubs service. If this
                EventData was not received from the Event Hubs service, the value <c>default(DateTimeOffset)</c>.
@@ -373,6 +468,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -397,11 +495,14 @@
       </Docs>
     </Member>
     <Member MemberName="EventBody">
-      <MemberSignature Language="C#" Value="public BinaryData EventBody { get; }" />
+      <MemberSignature Language="C#" Value="public BinaryData EventBody { get; }" FrameworkAlternate="azure-dotnet" />
       <MemberSignature Language="ILAsm" Value=".property instance class System.BinaryData EventBody" />
       <MemberSignature Language="DocId" Value="P:Azure.Messaging.EventHubs.EventData.EventBody" />
-      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property EventBody As BinaryData" />
-      <MemberSignature Language="F#" Value="member this.EventBody : BinaryData" Usage="Azure.Messaging.EventHubs.EventData.EventBody" />
+      <MemberSignature Language="VB.NET" Value="Public ReadOnly Property EventBody As BinaryData" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="F#" Value="member this.EventBody : BinaryData" Usage="Azure.Messaging.EventHubs.EventData.EventBody" FrameworkAlternate="azure-dotnet" />
+      <MemberSignature Language="C#" Value="public BinaryData EventBody { get; set; }" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="VB.NET" Value="Public Property EventBody As BinaryData" FrameworkAlternate="azure-dotnet-preview" />
+      <MemberSignature Language="F#" Value="member this.EventBody : BinaryData with get, set" Usage="Azure.Messaging.EventHubs.EventData.EventBody" FrameworkAlternate="azure-dotnet-preview" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
@@ -409,6 +510,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.BinaryData</ReturnType>
@@ -421,8 +525,9 @@
         <value>To be added.</value>
         <remarks>
                If the means for deserializing the raw data is not apparent to consumers, a
-               common technique is to make use of <see cref="P:Azure.Messaging.EventHubs.EventData.Properties" /> to associate serialization hints
-               as an aid to consumers who wish to deserialize the binary data.
+               common technique is to set the <see cref="P:Azure.Messaging.EventHubs.EventData.ContentType" /> or make use of
+               the <see cref="P:Azure.Messaging.EventHubs.EventData.Properties" /> to associate serialization hints to aid consumers
+               who wish to deserialize the binary data.
              </remarks>
         <altmember cref="T:System.BinaryData" />
         <altmember cref="P:Azure.Messaging.EventHubs.EventData.Properties" />
@@ -441,6 +546,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -471,6 +579,9 @@
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.Amqp.AmqpAnnotatedMessage</ReturnType>
@@ -495,6 +606,35 @@
              </remarks>
       </Docs>
     </Member>
+    <Member MemberName="IsReadOnly">
+      <MemberSignature Language="C#" Value="public override bool IsReadOnly { get; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance bool IsReadOnly" />
+      <MemberSignature Language="DocId" Value="P:Azure.Messaging.EventHubs.EventData.IsReadOnly" />
+      <MemberSignature Language="VB.NET" Value="Public Overrides ReadOnly Property IsReadOnly As Boolean" />
+      <MemberSignature Language="F#" Value="member this.IsReadOnly : bool" Usage="Azure.Messaging.EventHubs.EventData.IsReadOnly" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <Attributes>
+        <Attribute FrameworkAlternate="azure-dotnet-preview">
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
+      </Attributes>
+      <ReturnValue>
+        <ReturnType>System.Boolean</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+               Hidden property that indicates that the <see cref="T:Azure.Messaging.EventHubs.EventData" /> is not read-only. This is part of
+               the <see cref="T:Azure.Messaging.MessageWithMetadata" /> abstraction.
+             </summary>
+        <value>To be added.</value>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
     <Member MemberName="MessageId">
       <MemberSignature Language="C#" Value="public string MessageId { get; set; }" />
       <MemberSignature Language="ILAsm" Value=".property instance string MessageId" />
@@ -506,6 +646,9 @@
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -516,11 +659,15 @@
                a free-form value and can reflect a GUID or an identifier derived from the application
                context.
              </summary>
-        <value>To be added.</value>
+        <value>
+               The application identifier assigned to the event.
+             </value>
         <remarks>
                The <see cref="P:Azure.Messaging.EventHubs.EventData.MessageId" /> is intended to allow coordination between event
-               producers and consumers.  It has no meaning to the Event Hubs service, and does
-               not influence how Event Hubs identifies the event.
+               producers and consumers in applications.
+            
+               Event Hubs does not read, generate, or populate this value.  It does not influence
+               how Event Hubs identifies the event.
              </remarks>
       </Docs>
     </Member>
@@ -537,6 +684,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -545,7 +695,10 @@
         <summary>
                The offset of the event when it was received from the associated Event Hub partition.
              </summary>
-        <value>To be added.</value>
+        <value>
+               This value is read-only and will only be populated for events that have been read from Event Hubs. The default value
+               when not populated is <see cref="F:System.Int64.MinValue" />.
+             </value>
         <remarks>
                This property is only populated for events received from the Event Hubs service. If this
                EventData was not received from the Event Hubs service, the value is <see cref="F:System.Int64.MinValue" />.
@@ -565,6 +718,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -573,9 +729,14 @@
         <summary>
                The partition hashing key applied to the batch that the associated <see cref="T:Azure.Messaging.EventHubs.EventData" />, was published with.
              </summary>
-        <value>To be added.</value>
+        <value>
+               This value is read-only and will only be populated for events that have been read from Event Hubs. The default value
+               when not populated is <c>null</c>.
+             </value>
         <remarks>
-               This property is only populated for events received from the Event Hubs service.
+               To specify a partition key when publishing an event, specify your key in the <see cref="T:Azure.Messaging.EventHubs.Producer.SendEventOptions" /> and
+               use the <see cref="M:Azure.Messaging.EventHubs.Producer.EventHubProducerClient.SendAsync(System.Collections.Generic.IEnumerable{Azure.Messaging.EventHubs.EventData},Azure.Messaging.EventHubs.Producer.SendEventOptions,System.Threading.CancellationToken)" />
+               overload.
              </remarks>
       </Docs>
     </Member>
@@ -592,19 +753,23 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IDictionary&lt;System.String,System.Object&gt;</ReturnType>
       </ReturnValue>
       <Docs>
         <summary>
-               The set of free-form event properties which may be used for passing metadata associated with the event body
-               during Event Hubs operations.
+               The set of free-form properties which may be used for associating metadata with the event that
+               is meaningful within the application context.
              </summary>
         <value>To be added.</value>
         <remarks>
-               A common use case for <see cref="P:Azure.Messaging.EventHubs.EventData.Properties" /> is to associate serialization hints for the <see cref="P:Azure.Messaging.EventHubs.EventData.EventBody" />
-               as an aid to consumers who wish to deserialize the binary data.
+               A common use case for <see cref="P:Azure.Messaging.EventHubs.EventData.Properties" /> is to associate serialization hints
+               for the <see cref="P:Azure.Messaging.EventHubs.EventData.EventBody" /> as an aid to consumers who wish to deserialize the binary data
+               when the <see cref="P:Azure.Messaging.EventHubs.EventData.ContentType" /> alone does not offer sufficient context.
              </remarks>
         <example>
           <code>
@@ -627,6 +792,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int64</ReturnType>
@@ -635,7 +803,10 @@
         <summary>
                The sequence number assigned to the event when it was enqueued in the associated Event Hub partition.
              </summary>
-        <value>To be added.</value>
+        <value>
+               This value is read-only and will only be populated for events that have been read from Event Hubs. The default value
+               when not populated is <see cref="F:System.Int64.MinValue" />.
+             </value>
         <remarks>
                This property is only populated for events received from the Event Hubs service. If this
                EventData was not received from the Event Hubs service, the value is <see cref="F:System.Int64.MinValue" />.
@@ -655,6 +826,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IReadOnlyDictionary&lt;System.String,System.Object&gt;</ReturnType>
@@ -664,7 +838,10 @@
                The set of free-form event properties which were provided by the Event Hubs service to pass metadata associated with the
                event or associated Event Hubs operation.
              </summary>
-        <value>To be added.</value>
+        <value>
+               These properties are read-only and will only be populated for events that have been read from Event Hubs.
+               The default value when not populated is an empty set.
+             </value>
         <remarks>
                These properties are only populated for events received from the Event Hubs service.  The set is otherwise
                empty.
@@ -684,6 +861,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

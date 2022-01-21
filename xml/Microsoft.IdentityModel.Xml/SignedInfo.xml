@@ -12,6 +12,11 @@
     <AssemblyVersion>6.12.0.0</AssemblyVersion>
     <AssemblyVersion>6.12.1.0</AssemblyVersion>
     <AssemblyVersion>6.12.2.0</AssemblyVersion>
+    <AssemblyVersion>6.13.1.0</AssemblyVersion>
+    <AssemblyVersion>6.14.0.0</AssemblyVersion>
+    <AssemblyVersion>6.14.1.0</AssemblyVersion>
+    <AssemblyVersion>6.15.0.0</AssemblyVersion>
+    <AssemblyVersion>6.15.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.IdentityModel.Xml.DSigElement</BaseTypeName>
@@ -38,6 +43,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -62,6 +72,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="reference" Type="Microsoft.IdentityModel.Xml.Reference" />
@@ -90,6 +105,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -122,6 +142,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -152,6 +177,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Microsoft.IdentityModel.Xml.Reference&gt;</ReturnType>
@@ -180,6 +210,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -208,6 +243,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>

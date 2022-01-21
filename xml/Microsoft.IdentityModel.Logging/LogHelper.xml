@@ -12,6 +12,11 @@
     <AssemblyVersion>6.12.0.0</AssemblyVersion>
     <AssemblyVersion>6.12.1.0</AssemblyVersion>
     <AssemblyVersion>6.12.2.0</AssemblyVersion>
+    <AssemblyVersion>6.13.1.0</AssemblyVersion>
+    <AssemblyVersion>6.14.0.0</AssemblyVersion>
+    <AssemblyVersion>6.14.1.0</AssemblyVersion>
+    <AssemblyVersion>6.15.0.0</AssemblyVersion>
+    <AssemblyVersion>6.15.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -38,6 +43,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -60,6 +70,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -100,6 +115,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -141,6 +161,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -184,6 +209,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -227,6 +257,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -277,6 +312,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -322,6 +362,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -374,6 +419,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -426,6 +476,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -480,6 +535,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.ArgumentNullException</ReturnType>
@@ -511,6 +571,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -550,6 +615,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -591,6 +661,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -632,6 +707,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -680,6 +760,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -723,6 +808,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -773,6 +863,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -823,6 +918,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -875,6 +975,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Exception</ReturnType>
@@ -906,6 +1011,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Exception</ReturnType>
@@ -939,6 +1049,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -978,6 +1093,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1017,6 +1137,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -1039,6 +1164,36 @@
             Logs a warning event.
             </summary>
         <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="MarkAsNonPII">
+      <MemberSignature Language="C#" Value="public static object MarkAsNonPII (object arg);" />
+      <MemberSignature Language="ILAsm" Value=".method public static hidebysig object MarkAsNonPII(object arg) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Microsoft.IdentityModel.Logging.LogHelper.MarkAsNonPII(System.Object)" />
+      <MemberSignature Language="VB.NET" Value="Public Shared Function MarkAsNonPII (arg As Object) As Object" />
+      <MemberSignature Language="F#" Value="static member MarkAsNonPII : obj -&gt; obj" Usage="Microsoft.IdentityModel.Logging.LogHelper.MarkAsNonPII arg" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.IdentityModel.Logging</AssemblyName>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Object</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="arg" Type="System.Object" />
+      </Parameters>
+      <Docs>
+        <param name="arg">A log message argument to be marked as NonPII.</param>
+        <summary>
+            Marks a log message argument (<paramref name="arg" />) as NonPII.
+            </summary>
+        <returns>An argument marked as NonPII.</returns>
+        <remarks>
+            Marking an argument as NonPII in <see cref="M:Microsoft.IdentityModel.Logging.LogHelper.FormatInvariant(System.String,System.Object[])" /> calls will result in logging
+            that argument in cleartext, regardless of the <see cref="P:Microsoft.IdentityModel.Logging.IdentityModelEventSource.ShowPII" /> flag value.
+            </remarks>
       </Docs>
     </Member>
   </Members>

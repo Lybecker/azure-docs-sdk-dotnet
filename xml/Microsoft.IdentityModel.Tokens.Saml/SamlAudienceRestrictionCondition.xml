@@ -12,6 +12,11 @@
     <AssemblyVersion>6.12.0.0</AssemblyVersion>
     <AssemblyVersion>6.12.1.0</AssemblyVersion>
     <AssemblyVersion>6.12.2.0</AssemblyVersion>
+    <AssemblyVersion>6.13.1.0</AssemblyVersion>
+    <AssemblyVersion>6.14.0.0</AssemblyVersion>
+    <AssemblyVersion>6.14.1.0</AssemblyVersion>
+    <AssemblyVersion>6.15.0.0</AssemblyVersion>
+    <AssemblyVersion>6.15.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.IdentityModel.Tokens.Saml.SamlCondition</BaseTypeName>
@@ -39,6 +44,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="audiences" Type="System.Collections.Generic.IEnumerable&lt;System.Uri&gt;" />
@@ -66,6 +76,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="audience" Type="System.Uri" />
@@ -93,6 +108,11 @@
         <AssemblyVersion>6.12.0.0</AssemblyVersion>
         <AssemblyVersion>6.12.1.0</AssemblyVersion>
         <AssemblyVersion>6.12.2.0</AssemblyVersion>
+        <AssemblyVersion>6.13.1.0</AssemblyVersion>
+        <AssemblyVersion>6.14.0.0</AssemblyVersion>
+        <AssemblyVersion>6.14.1.0</AssemblyVersion>
+        <AssemblyVersion>6.15.0.0</AssemblyVersion>
+        <AssemblyVersion>6.15.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.ICollection&lt;System.Uri&gt;</ReturnType>

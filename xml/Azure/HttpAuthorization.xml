@@ -8,6 +8,13 @@
     <AssemblyName>Azure.Storage.Common</AssemblyName>
     <AssemblyVersion>12.9.0.0</AssemblyVersion>
   </AssemblyInfo>
+  <AssemblyInfo>
+    <AssemblyName>Azure.Core</AssemblyName>
+    <AssemblyVersion>1.19.0.0</AssemblyVersion>
+    <AssemblyVersion>1.20.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.0.0</AssemblyVersion>
+    <AssemblyVersion>1.22.0.0</AssemblyVersion>
+  </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
   </Base>
@@ -30,6 +37,13 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="scheme" Type="System.String" />
@@ -60,6 +74,13 @@
         <AssemblyName>Azure.Storage.Common</AssemblyName>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
@@ -83,6 +104,13 @@
         <AssemblyName>Azure.Storage.Common</AssemblyName>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
       </ReturnValue>
@@ -104,6 +132,13 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Common</AssemblyName>
         <AssemblyVersion>12.9.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

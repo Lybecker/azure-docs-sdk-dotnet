@@ -16,6 +16,12 @@
     <AssemblyVersion>4.35.0.0</AssemblyVersion>
     <AssemblyVersion>4.35.1.0</AssemblyVersion>
     <AssemblyVersion>4.36.0.0</AssemblyVersion>
+    <AssemblyVersion>4.36.1.0</AssemblyVersion>
+    <AssemblyVersion>4.36.2.0</AssemblyVersion>
+    <AssemblyVersion>4.37.0.0</AssemblyVersion>
+    <AssemblyVersion>4.38.0.0</AssemblyVersion>
+    <AssemblyVersion>4.39.0.0</AssemblyVersion>
+    <AssemblyVersion>4.40.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -38,8 +44,8 @@
             Azure AD application)
             </summary>
     <remarks>To understand the difference between public client applications and confidential client applications, see https://aka.ms/msal-net-client-applications</remarks>
-    <altmember cref="T:Microsoft.Identity.Client.ConfidentialClientApplication" />
     <altmember cref="T:Microsoft.Identity.Client.ClientCredential" />
+    <altmember cref="T:Microsoft.Identity.Client.ConfidentialClientApplication" />
   </Docs>
   <Members>
     <Member MemberName=".ctor">
@@ -61,6 +67,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -98,6 +110,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -135,6 +153,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

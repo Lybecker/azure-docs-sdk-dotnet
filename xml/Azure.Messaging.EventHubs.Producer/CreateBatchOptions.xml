@@ -10,6 +10,9 @@
     <AssemblyVersion>5.4.1.0</AssemblyVersion>
     <AssemblyVersion>5.5.0.0</AssemblyVersion>
     <AssemblyVersion>5.6.0.0</AssemblyVersion>
+    <AssemblyVersion>5.6.1.0</AssemblyVersion>
+    <AssemblyVersion>5.6.2.0</AssemblyVersion>
+    <AssemblyVersion>5.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Azure.Messaging.EventHubs.Producer.SendEventOptions</BaseTypeName>
@@ -35,6 +38,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -55,6 +61,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -91,6 +100,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -123,6 +135,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int64&gt;</ReturnType>
@@ -136,6 +151,7 @@
                the maximum size allowed by the active transport will be used.
              </value>
         <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentOutOfRangeException">Occurs when the requested size is less than 24.</exception>
       </Docs>
     </Member>
     <Member MemberName="ToString">
@@ -151,6 +167,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

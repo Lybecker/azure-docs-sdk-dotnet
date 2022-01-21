@@ -8,6 +8,8 @@
     <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
     <AssemblyVersion>2.17.0.146</AssemblyVersion>
     <AssemblyVersion>2.18.0.315</AssemblyVersion>
+    <AssemblyVersion>2.19.0.227</AssemblyVersion>
+    <AssemblyVersion>2.20.0.103</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -46,6 +48,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -70,6 +74,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -96,6 +102,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -125,6 +133,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -154,6 +164,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -178,6 +190,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerator&lt;Microsoft.ApplicationInsights.Metric&gt;</ReturnType>
@@ -200,6 +214,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.ApplicationInsights.Metric</ReturnType>
@@ -212,7 +228,7 @@
         <param name="metricIdentifier">The identity of the metric.</param>
         <param name="metricConfiguration">@The configutration of the metric.</param>
         <summary>Gets the specified metric, or creates one if no such metric exists.</summary>
-        <returns>A metric witht he specified identify and configuration.</returns>
+        <returns>A metric with the specified identify and configuration.</returns>
         <remarks>To be added.</remarks>
         <exception cref="T:System.ArgumentException">If a metric with the specified identify exists,
             but its configuration does not match the specified configuration.
@@ -237,6 +253,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -261,6 +279,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -286,6 +306,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -311,6 +333,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -341,6 +365,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -371,6 +397,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.IEnumerator</ReturnType>
@@ -393,6 +421,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>

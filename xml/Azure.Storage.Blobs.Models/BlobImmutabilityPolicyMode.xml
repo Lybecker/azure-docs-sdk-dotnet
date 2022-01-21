@@ -7,12 +7,15 @@
   <AssemblyInfo>
     <AssemblyName>Azure.Storage.Blobs</AssemblyName>
     <AssemblyVersion>12.10.0.0</AssemblyVersion>
+    <AssemblyVersion>12.11.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
   </Base>
   <Docs>
-    <summary>To be added.</summary>
+    <summary>
+            The BlobImmutabilityPolicyMode.
+            </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
@@ -26,13 +29,18 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobImmutabilityPolicyMode</ReturnType>
       </ReturnValue>
       <MemberValue>2</MemberValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>
+            Blob has a locked immutability policy.
+            This means the immutability policy cannot be modified or deleted until
+            it expires.
+            </summary>
       </Docs>
     </Member>
     <Member MemberName="Mutable">
@@ -45,13 +53,16 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobImmutabilityPolicyMode</ReturnType>
       </ReturnValue>
       <MemberValue>0</MemberValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>
+            Blob does not have an immutability policy.
+            </summary>
       </Docs>
     </Member>
     <Member MemberName="Unlocked">
@@ -64,13 +75,17 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Storage.Blobs</AssemblyName>
         <AssemblyVersion>12.10.0.0</AssemblyVersion>
+        <AssemblyVersion>12.11.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Blobs.Models.BlobImmutabilityPolicyMode</ReturnType>
       </ReturnValue>
       <MemberValue>1</MemberValue>
       <Docs>
-        <summary>To be added.</summary>
+        <summary>
+            Blob has an unlocked immutability policy.
+            This means the immutability policy can be modified or deleted.
+            </summary>
       </Docs>
     </Member>
   </Members>

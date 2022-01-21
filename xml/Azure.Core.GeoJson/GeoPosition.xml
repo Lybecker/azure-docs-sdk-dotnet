@@ -14,6 +14,10 @@
     <AssemblyVersion>1.16.0.0</AssemblyVersion>
     <AssemblyVersion>1.17.0.0</AssemblyVersion>
     <AssemblyVersion>1.18.0.0</AssemblyVersion>
+    <AssemblyVersion>1.19.0.0</AssemblyVersion>
+    <AssemblyVersion>1.20.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.0.0</AssemblyVersion>
+    <AssemblyVersion>1.22.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ValueType</BaseTypeName>
@@ -25,7 +29,7 @@
   </Interfaces>
   <Docs>
     <summary>
-            Represents a single spatial position with altitude, longitude, and optional latitude.
+            Represents a single spatial position with latitude, longitude, and optional altitude.
             </summary>
     <remarks>To be added.</remarks>
   </Docs>
@@ -47,6 +51,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="longitude" Type="System.Double" />
@@ -78,6 +86,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="longitude" Type="System.Double" />
@@ -111,6 +123,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Double&gt;</ReturnType>
@@ -140,6 +156,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -172,6 +192,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -205,6 +229,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -238,6 +266,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -267,6 +299,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Double</ReturnType>
@@ -300,6 +336,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Double</ReturnType>
@@ -329,6 +369,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Double</ReturnType>
@@ -358,6 +402,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -394,6 +442,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -430,6 +482,10 @@
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
         <AssemblyVersion>1.17.0.0</AssemblyVersion>
         <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

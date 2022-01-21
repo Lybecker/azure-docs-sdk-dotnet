@@ -16,6 +16,12 @@
     <AssemblyVersion>4.35.0.0</AssemblyVersion>
     <AssemblyVersion>4.35.1.0</AssemblyVersion>
     <AssemblyVersion>4.36.0.0</AssemblyVersion>
+    <AssemblyVersion>4.36.1.0</AssemblyVersion>
+    <AssemblyVersion>4.36.2.0</AssemblyVersion>
+    <AssemblyVersion>4.37.0.0</AssemblyVersion>
+    <AssemblyVersion>4.38.0.0</AssemblyVersion>
+    <AssemblyVersion>4.39.0.0</AssemblyVersion>
+    <AssemblyVersion>4.40.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -49,6 +55,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -75,6 +87,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.AadAuthorityAudience</ReturnType>
@@ -107,6 +125,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.AzureCloudInstance</ReturnType>
@@ -141,6 +165,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerable&lt;System.String&gt;</ReturnType>
@@ -177,6 +207,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -209,6 +245,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -240,6 +282,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -271,8 +319,18 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
+        <Attribute>
+          <AttributeName Language="C#">[System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)]</AttributeName>
+          <AttributeName Language="F#">[&lt;System.ComponentModel.EditorBrowsable(System.ComponentModel.EditorBrowsableState.Never)&gt;]</AttributeName>
+        </Attribute>
         <Attribute>
           <AttributeName Language="C#">[System.Obsolete("Should use ClientName and ClientVersion properties instead of Component", true)]</AttributeName>
           <AttributeName Language="F#">[&lt;System.Obsolete("Should use ClientName and ClientVersion properties instead of Component", true)&gt;]</AttributeName>
@@ -309,6 +367,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -344,6 +408,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -378,6 +448,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -408,6 +484,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -439,6 +521,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -470,6 +558,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.LogLevel</ReturnType>
@@ -503,6 +597,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -545,6 +645,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -577,6 +683,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.Kerberos.KerberosTicketContainer</ReturnType>

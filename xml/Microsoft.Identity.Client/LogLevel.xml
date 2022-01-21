@@ -16,18 +16,46 @@
     <AssemblyVersion>4.35.0.0</AssemblyVersion>
     <AssemblyVersion>4.35.1.0</AssemblyVersion>
     <AssemblyVersion>4.36.0.0</AssemblyVersion>
+    <AssemblyVersion>4.36.1.0</AssemblyVersion>
+    <AssemblyVersion>4.36.2.0</AssemblyVersion>
+    <AssemblyVersion>4.37.0.0</AssemblyVersion>
+    <AssemblyVersion>4.38.0.0</AssemblyVersion>
+    <AssemblyVersion>4.39.0.0</AssemblyVersion>
+    <AssemblyVersion>4.40.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Enum</BaseTypeName>
   </Base>
   <Docs>
     <summary>
-                Level of the log messages.
-                For details see https://aka.ms/msal-net-logging
+            Represents log level in MSAL.
+            For details, see <see href="https://aka.ms/msal-net-logging">MSAL logging</see>.
             </summary>
     <remarks>To be added.</remarks>
   </Docs>
   <Members>
+    <Member MemberName="Always">
+      <MemberSignature Language="C#" Value="Always" />
+      <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Identity.Client.LogLevel Always = int32(-1)" />
+      <MemberSignature Language="DocId" Value="F:Microsoft.Identity.Client.LogLevel.Always" />
+      <MemberSignature Language="VB.NET" Value="Always" />
+      <MemberSignature Language="F#" Value="Always = -1" Usage="Microsoft.Identity.Client.LogLevel.Always" />
+      <MemberType>Field</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Identity.Client</AssemblyName>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Microsoft.Identity.Client.LogLevel</ReturnType>
+      </ReturnValue>
+      <MemberValue>-1</MemberValue>
+      <Docs>
+        <summary>
+            Includes logs of important health metrics to help with diagnostics of MSAL operations.
+            </summary>
+      </Docs>
+    </Member>
     <Member MemberName="Error">
       <MemberSignature Language="C#" Value="Error" />
       <MemberSignature Language="ILAsm" Value=".field public static literal valuetype Microsoft.Identity.Client.LogLevel Error = int32(0)" />
@@ -47,6 +75,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.LogLevel</ReturnType>
@@ -54,7 +88,7 @@
       <MemberValue>0</MemberValue>
       <Docs>
         <summary>
-                Error Log level
+            Includes logs when something has gone wrong and an error was generated. Used for debugging and identifying problems.
             </summary>
       </Docs>
     </Member>
@@ -77,6 +111,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.LogLevel</ReturnType>
@@ -84,7 +124,7 @@
       <MemberValue>2</MemberValue>
       <Docs>
         <summary>
-                Information Log level
+            Default. Includes logs of general events intended for informational purposes, not necessarily intended for debugging.
             </summary>
       </Docs>
     </Member>
@@ -107,6 +147,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.LogLevel</ReturnType>
@@ -114,7 +160,7 @@
       <MemberValue>3</MemberValue>
       <Docs>
         <summary>
-                Verbose Log level
+            Includes logs of the full details of library behavior.
             </summary>
       </Docs>
     </Member>
@@ -137,6 +183,12 @@
         <AssemblyVersion>4.35.0.0</AssemblyVersion>
         <AssemblyVersion>4.35.1.0</AssemblyVersion>
         <AssemblyVersion>4.36.0.0</AssemblyVersion>
+        <AssemblyVersion>4.36.1.0</AssemblyVersion>
+        <AssemblyVersion>4.36.2.0</AssemblyVersion>
+        <AssemblyVersion>4.37.0.0</AssemblyVersion>
+        <AssemblyVersion>4.38.0.0</AssemblyVersion>
+        <AssemblyVersion>4.39.0.0</AssemblyVersion>
+        <AssemblyVersion>4.40.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Client.LogLevel</ReturnType>
@@ -144,7 +196,7 @@
       <MemberValue>1</MemberValue>
       <Docs>
         <summary>
-                Warning Log level
+            Includes logs in scenarios when there hasn't necessarily been an error or failure, but are intended for diagnostics and pinpointing problems.
             </summary>
       </Docs>
     </Member>

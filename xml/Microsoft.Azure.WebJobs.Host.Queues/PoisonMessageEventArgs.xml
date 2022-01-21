@@ -8,6 +8,10 @@
     <AssemblyName>Microsoft.Azure.WebJobs.Extensions.Storage.Queues</AssemblyName>
     <AssemblyVersion>5.0.0.0</AssemblyVersion>
   </AssemblyInfo>
+  <AssemblyInfo>
+    <AssemblyName>Microsoft.Azure.WebJobs.Extensions.Storage</AssemblyName>
+    <AssemblyVersion>4.0.3.0</AssemblyVersion>
+  </AssemblyInfo>
   <Base>
     <BaseTypeName>System.EventArgs</BaseTypeName>
   </Base>
@@ -55,6 +59,10 @@
         <AssemblyName>Microsoft.Azure.WebJobs.Extensions.Storage.Queues</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.WebJobs.Extensions.Storage</AssemblyName>
+        <AssemblyVersion>4.0.3.0</AssemblyVersion>
+      </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Queues.Models.QueueMessage</ReturnType>
       </ReturnValue>
@@ -76,6 +84,10 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.WebJobs.Extensions.Storage.Queues</AssemblyName>
         <AssemblyVersion>5.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Azure.WebJobs.Extensions.Storage</AssemblyName>
+        <AssemblyVersion>4.0.3.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Storage.Queues.QueueClient</ReturnType>

@@ -8,6 +8,11 @@
     <AssemblyName>Azure.Core.Experimental</AssemblyName>
     <AssemblyVersion>0.1.0.0</AssemblyVersion>
   </AssemblyInfo>
+  <AssemblyInfo>
+    <AssemblyName>Azure.Core</AssemblyName>
+    <AssemblyVersion>1.21.0.0</AssemblyVersion>
+    <AssemblyVersion>1.22.0.0</AssemblyVersion>
+  </AssemblyInfo>
   <Base>
     <BaseTypeName>System.ValueType</BaseTypeName>
   </Base>
@@ -37,6 +42,11 @@
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
       <Parameters>
         <Parameter Name="contentType" Type="System.String" />
       </Parameters>
@@ -59,6 +69,11 @@
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ContentType</ReturnType>
       </ReturnValue>
@@ -80,6 +95,11 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ContentType</ReturnType>
@@ -106,6 +126,11 @@
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
@@ -131,6 +156,11 @@
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
       </ReturnValue>
@@ -146,7 +176,7 @@
       </Docs>
     </Member>
     <Member MemberName="Equals">
-      <MemberSignature Language="C#" Value="public bool Equals (string other);" />
+      <MemberSignature Language="C#" Value="public bool Equals (string? other);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance bool Equals(string other) cil managed" />
       <MemberSignature Language="DocId" Value="M:Azure.Core.ContentType.Equals(System.String)" />
       <MemberSignature Language="VB.NET" Value="Public Function Equals (other As String) As Boolean" />
@@ -158,6 +188,11 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -184,6 +219,11 @@
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
       </ReturnValue>
@@ -204,6 +244,11 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -234,6 +279,11 @@
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ContentType</ReturnType>
       </ReturnValue>
@@ -259,6 +309,11 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -289,6 +344,11 @@
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
       </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
+      </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Core.ContentType</ReturnType>
       </ReturnValue>
@@ -310,6 +370,11 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Core.Experimental</AssemblyName>
         <AssemblyVersion>0.1.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Core</AssemblyName>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.22.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>

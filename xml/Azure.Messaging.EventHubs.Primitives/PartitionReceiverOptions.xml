@@ -10,6 +10,9 @@
     <AssemblyVersion>5.4.1.0</AssemblyVersion>
     <AssemblyVersion>5.5.0.0</AssemblyVersion>
     <AssemblyVersion>5.6.0.0</AssemblyVersion>
+    <AssemblyVersion>5.6.1.0</AssemblyVersion>
+    <AssemblyVersion>5.6.2.0</AssemblyVersion>
+    <AssemblyVersion>5.7.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -35,6 +38,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -55,6 +61,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.EventHubConnectionOptions</ReturnType>
@@ -80,6 +89,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.TimeSpan&gt;</ReturnType>
@@ -92,6 +104,7 @@
              </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentOutOfRangeException">Occurs when the requested wait time is negative.</exception>
       </Docs>
     </Member>
     <Member MemberName="Equals">
@@ -107,6 +120,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -143,6 +159,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -172,6 +191,9 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Messaging.EventHubs</AssemblyName>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -198,6 +220,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int64&gt;</ReturnType>
@@ -219,6 +244,10 @@
                will be set to <see cref="F:Azure.Messaging.EventHubs.EventHubsException.FailureReason.ConsumerDisconnected" />.
              </remarks>
         <altmember cref="T:Azure.Messaging.EventHubs.EventHubsException" />
+        <exception cref="T:Azure.Messaging.EventHubs.EventHubsException">
+               Occurs when the owner level is set and the <see cref="T:Azure.Messaging.EventHubs.Primitives.PartitionReceiver" /> is unable to read from the requested Event Hub partition due to being denied
+               ownership.  In this case, the <see cref="T:Azure.Messaging.EventHubs.EventHubsException.FailureReason" /> will be set to <see cref="F:Azure.Messaging.EventHubs.EventHubsException.FailureReason.ConsumerDisconnected" />.
+             </exception>
         <altmember cref="F:Azure.Messaging.EventHubs.EventHubsException.FailureReason.ConsumerDisconnected" />
       </Docs>
     </Member>
@@ -235,6 +264,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Int32</ReturnType>
@@ -251,6 +283,7 @@
                Event Hubs.
              </value>
         <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentOutOfRangeException">Occurs when the requested count is negative.</exception>
       </Docs>
     </Member>
     <Member MemberName="PrefetchSizeInBytes">
@@ -266,6 +299,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Nullable&lt;System.Int64&gt;</ReturnType>
@@ -287,6 +323,7 @@
                as traffic passes through the system.  Consequently, the resulting resource use will fluctuate as well.</para>
         </value>
         <remarks>To be added.</remarks>
+        <exception cref="T:System.ArgumentOutOfRangeException">Occurs when the requested size is negative.</exception>
       </Docs>
     </Member>
     <Member MemberName="RetryOptions">
@@ -302,6 +339,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Messaging.EventHubs.EventHubsRetryOptions</ReturnType>
@@ -329,6 +369,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -361,6 +404,9 @@
         <AssemblyVersion>5.4.1.0</AssemblyVersion>
         <AssemblyVersion>5.5.0.0</AssemblyVersion>
         <AssemblyVersion>5.6.0.0</AssemblyVersion>
+        <AssemblyVersion>5.6.1.0</AssemblyVersion>
+        <AssemblyVersion>5.6.2.0</AssemblyVersion>
+        <AssemblyVersion>5.7.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>

@@ -19,6 +19,14 @@
     <AssemblyVersion>1.15.1.0</AssemblyVersion>
     <AssemblyVersion>1.15.2.0</AssemblyVersion>
     <AssemblyVersion>1.16.0.0</AssemblyVersion>
+    <AssemblyVersion>1.16.1.0</AssemblyVersion>
+    <AssemblyVersion>1.17.0.0</AssemblyVersion>
+    <AssemblyVersion>1.18.0.0</AssemblyVersion>
+    <AssemblyVersion>1.19.0.0</AssemblyVersion>
+    <AssemblyVersion>1.20.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.1.0</AssemblyVersion>
+    <AssemblyVersion>1.22.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>Microsoft.Identity.Web.MicrosoftIdentityAuthenticationBaseOptions</BaseTypeName>
@@ -57,6 +65,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -86,6 +102,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -120,6 +144,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Web.DownstreamWebApiOptions</ReturnType>
@@ -130,6 +162,30 @@
             Clone the options (to be able to override them).
             </summary>
         <returns>A clone of the options.</returns>
+        <remarks>To be added.</remarks>
+      </Docs>
+    </Member>
+    <Member MemberName="CustomizeHttpRequestMessage">
+      <MemberSignature Language="C#" Value="public Action&lt;System.Net.Http.HttpRequestMessage&gt;? CustomizeHttpRequestMessage { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class System.Action`1&lt;class System.Net.Http.HttpRequestMessage&gt; CustomizeHttpRequestMessage" />
+      <MemberSignature Language="DocId" Value="P:Microsoft.Identity.Web.DownstreamWebApiOptions.CustomizeHttpRequestMessage" />
+      <MemberSignature Language="VB.NET" Value="Public Property CustomizeHttpRequestMessage As Action(Of HttpRequestMessage)" />
+      <MemberSignature Language="F#" Value="member this.CustomizeHttpRequestMessage : Action&lt;System.Net.Http.HttpRequestMessage&gt; with get, set" Usage="Microsoft.Identity.Web.DownstreamWebApiOptions.CustomizeHttpRequestMessage" />
+      <MemberType>Property</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Microsoft.Identity.Web</AssemblyName>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>System.Action&lt;System.Net.Http.HttpRequestMessage&gt;</ReturnType>
+      </ReturnValue>
+      <Docs>
+        <summary>
+            Provides an opportunity to customize the HttpRequestMessage. For example,
+            to customize the headers. This is called after the message was formed, including
+            the Authorization header, and just before the message is sent.
+            </summary>
+        <value>To be added.</value>
         <remarks>To be added.</remarks>
       </Docs>
     </Member>
@@ -155,6 +211,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -190,6 +254,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Net.Http.HttpMethod</ReturnType>
@@ -224,6 +296,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -261,6 +341,14 @@
         <AssemblyVersion>1.15.1.0</AssemblyVersion>
         <AssemblyVersion>1.15.2.0</AssemblyVersion>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Object</ReturnType>

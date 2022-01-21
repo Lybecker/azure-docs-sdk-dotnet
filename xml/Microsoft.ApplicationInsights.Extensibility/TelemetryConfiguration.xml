@@ -8,6 +8,8 @@
     <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
     <AssemblyVersion>2.17.0.146</AssemblyVersion>
     <AssemblyVersion>2.18.0.315</AssemblyVersion>
+    <AssemblyVersion>2.19.0.227</AssemblyVersion>
+    <AssemblyVersion>2.20.0.103</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -37,6 +39,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -63,6 +67,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="instrumentationKey" Type="System.String" />
@@ -86,6 +92,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="instrumentationKey" Type="System.String" />
@@ -111,6 +119,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -142,6 +152,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.ApplicationInsights.Extensibility.IApplicationIdProvider</ReturnType>
@@ -167,6 +179,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -190,6 +204,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.ApplicationInsights.Extensibility.TelemetryConfiguration</ReturnType>
@@ -216,6 +232,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.ApplicationInsights.Extensibility.TelemetryConfiguration</ReturnType>
@@ -244,6 +262,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.ApplicationInsights.Extensibility.TelemetrySink</ReturnType>
@@ -267,6 +287,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Boolean</ReturnType>
@@ -296,6 +318,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -319,6 +343,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.ApplicationInsights.Extensibility.Implementation.Endpoints.EndpointContainer</ReturnType>
@@ -342,6 +368,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -376,6 +404,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -403,6 +433,8 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -433,6 +465,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.ApplicationInsights.Channel.ITelemetryChannel</ReturnType>
@@ -456,6 +490,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Microsoft.ApplicationInsights.Extensibility.ITelemetryInitializer&gt;</ReturnType>
@@ -485,6 +521,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.ApplicationInsights.Extensibility.Implementation.TelemetryProcessorChainBuilder</ReturnType>
@@ -508,6 +546,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.ObjectModel.ReadOnlyCollection&lt;Microsoft.ApplicationInsights.Extensibility.ITelemetryProcessor&gt;</ReturnType>
@@ -531,6 +571,8 @@
         <AssemblyName>Microsoft.ApplicationInsights</AssemblyName>
         <AssemblyVersion>2.17.0.146</AssemblyVersion>
         <AssemblyVersion>2.18.0.315</AssemblyVersion>
+        <AssemblyVersion>2.19.0.227</AssemblyVersion>
+        <AssemblyVersion>2.20.0.103</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IList&lt;Microsoft.ApplicationInsights.Extensibility.TelemetrySink&gt;</ReturnType>

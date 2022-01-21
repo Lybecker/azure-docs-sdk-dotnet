@@ -5,7 +5,7 @@
   <TypeSignature Language="VB.NET" Value="Public Class Sku" />
   <TypeSignature Language="F#" Value="type Sku = class" />
   <AssemblyInfo>
-    <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+    <AssemblyName>Azure.ResourceManager</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -24,7 +24,7 @@
       <MemberSignature Language="VB.NET" Value="Public Sub New ()" />
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -41,7 +41,7 @@
       <MemberSignature Language="F#" Value="member this.Capacity : Nullable&lt;int&gt; with get, set" Usage="Azure.ResourceManager.Resources.Models.Sku.Capacity" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -61,7 +61,7 @@
       <MemberSignature Language="F#" Value="member this.Family : string with get, set" Usage="Azure.ResourceManager.Resources.Models.Sku.Family" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -81,7 +81,7 @@
       <MemberSignature Language="F#" Value="member this.Model : string with get, set" Usage="Azure.ResourceManager.Resources.Models.Sku.Model" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -101,7 +101,7 @@
       <MemberSignature Language="F#" Value="member this.Name : string with get, set" Usage="Azure.ResourceManager.Resources.Models.Sku.Name" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -121,7 +121,7 @@
       <MemberSignature Language="F#" Value="member this.Size : string with get, set" Usage="Azure.ResourceManager.Resources.Models.Sku.Size" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -141,7 +141,7 @@
       <MemberSignature Language="F#" Value="member this.Tier : string with get, set" Usage="Azure.ResourceManager.Resources.Models.Sku.Tier" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

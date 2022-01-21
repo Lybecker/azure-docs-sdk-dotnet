@@ -7,6 +7,7 @@
   <AssemblyInfo>
     <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -32,6 +33,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -49,6 +51,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response</ReturnType>
@@ -74,6 +77,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&gt;</ReturnType>
@@ -89,6 +93,62 @@
         <exception cref="T:Azure.RequestFailedException">Thrown when a failure is returned by the Container Registry service.</exception>
       </Docs>
     </Member>
+    <Member MemberName="GetAllManifestProperties">
+      <MemberSignature Language="C#" Value="public virtual Azure.Pageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt; GetAllManifestProperties (Azure.Containers.ContainerRegistry.ArtifactManifestOrder manifestOrder = Azure.Containers.ContainerRegistry.ArtifactManifestOrder.None, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Pageable`1&lt;class Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt; GetAllManifestProperties(valuetype Azure.Containers.ContainerRegistry.ArtifactManifestOrder manifestOrder, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Containers.ContainerRegistry.ContainerRepository.GetAllManifestProperties(Azure.Containers.ContainerRegistry.ArtifactManifestOrder,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetAllManifestProperties (Optional manifestOrder As ArtifactManifestOrder = Azure.Containers.ContainerRegistry.ArtifactManifestOrder.None, Optional cancellationToken As CancellationToken = Nothing) As Pageable(Of ArtifactManifestProperties)" />
+      <MemberSignature Language="F#" Value="abstract member GetAllManifestProperties : Azure.Containers.ContainerRegistry.ArtifactManifestOrder * System.Threading.CancellationToken -&gt; Azure.Pageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt;&#xA;override this.GetAllManifestProperties : Azure.Containers.ContainerRegistry.ArtifactManifestOrder * System.Threading.CancellationToken -&gt; Azure.Pageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt;" Usage="containerRepository.GetAllManifestProperties (manifestOrder, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.Pageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="manifestOrder" Type="Azure.Containers.ContainerRegistry.ArtifactManifestOrder" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet" />
+      </Parameters>
+      <Docs>
+        <param name="manifestOrder"> Requested order of manifests in the collection. </param>
+        <param name="cancellationToken"> The cancellation token to use. </param>
+        <summary> List the manifests associated with this repository and the properties of each.
+            This is useful for determining the collection of artifacts associated with this repository, as each artifact is uniquely identified by its manifest. </summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Thrown when a failure is returned by the Container Registry service.</exception>
+      </Docs>
+    </Member>
+    <Member MemberName="GetAllManifestPropertiesAsync">
+      <MemberSignature Language="C#" Value="public virtual Azure.AsyncPageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt; GetAllManifestPropertiesAsync (Azure.Containers.ContainerRegistry.ArtifactManifestOrder manifestOrder = Azure.Containers.ContainerRegistry.ArtifactManifestOrder.None, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.AsyncPageable`1&lt;class Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt; GetAllManifestPropertiesAsync(valuetype Azure.Containers.ContainerRegistry.ArtifactManifestOrder manifestOrder, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
+      <MemberSignature Language="DocId" Value="M:Azure.Containers.ContainerRegistry.ContainerRepository.GetAllManifestPropertiesAsync(Azure.Containers.ContainerRegistry.ArtifactManifestOrder,System.Threading.CancellationToken)" />
+      <MemberSignature Language="VB.NET" Value="Public Overridable Function GetAllManifestPropertiesAsync (Optional manifestOrder As ArtifactManifestOrder = Azure.Containers.ContainerRegistry.ArtifactManifestOrder.None, Optional cancellationToken As CancellationToken = Nothing) As AsyncPageable(Of ArtifactManifestProperties)" />
+      <MemberSignature Language="F#" Value="abstract member GetAllManifestPropertiesAsync : Azure.Containers.ContainerRegistry.ArtifactManifestOrder * System.Threading.CancellationToken -&gt; Azure.AsyncPageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt;&#xA;override this.GetAllManifestPropertiesAsync : Azure.Containers.ContainerRegistry.ArtifactManifestOrder * System.Threading.CancellationToken -&gt; Azure.AsyncPageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt;" Usage="containerRepository.GetAllManifestPropertiesAsync (manifestOrder, cancellationToken)" />
+      <MemberType>Method</MemberType>
+      <AssemblyInfo>
+        <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+      </AssemblyInfo>
+      <ReturnValue>
+        <ReturnType>Azure.AsyncPageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt;</ReturnType>
+      </ReturnValue>
+      <Parameters>
+        <Parameter Name="manifestOrder" Type="Azure.Containers.ContainerRegistry.ArtifactManifestOrder" Index="0" FrameworkAlternate="azure-dotnet" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet" />
+      </Parameters>
+      <Docs>
+        <param name="manifestOrder"> Requested order of manifests in the collection. </param>
+        <param name="cancellationToken"> The cancellation token to use. </param>
+        <summary> List the manifests associated with this repository and the properties of each.
+            This is useful for determining the collection of artifacts associated with this repository, as each artifact is uniquely identified by its manifest. </summary>
+        <returns>To be added.</returns>
+        <remarks>To be added.</remarks>
+        <exception cref="T:Azure.RequestFailedException">Thrown when a failure is returned by the Container Registry service.</exception>
+      </Docs>
+    </Member>
     <Member MemberName="GetArtifact">
       <MemberSignature Language="C#" Value="public virtual Azure.Containers.ContainerRegistry.RegistryArtifact GetArtifact (string tagOrDigest);" />
       <MemberSignature Language="ILAsm" Value=".method public hidebysig newslot virtual instance class Azure.Containers.ContainerRegistry.RegistryArtifact GetArtifact(string tagOrDigest) cil managed" />
@@ -99,6 +159,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Containers.ContainerRegistry.RegistryArtifact</ReturnType>
@@ -127,13 +188,14 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Pageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="orderBy" Type="Azure.Containers.ContainerRegistry.ArtifactManifestOrderBy" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
+        <Parameter Name="orderBy" Type="Azure.Containers.ContainerRegistry.ArtifactManifestOrderBy" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet-preview" />
       </Parameters>
       <Docs>
         <param name="orderBy"> Requested order of manifests in the collection. </param>
@@ -155,13 +217,14 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.AsyncPageable&lt;Azure.Containers.ContainerRegistry.ArtifactManifestProperties&gt;</ReturnType>
       </ReturnValue>
       <Parameters>
-        <Parameter Name="orderBy" Type="Azure.Containers.ContainerRegistry.ArtifactManifestOrderBy" />
-        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" />
+        <Parameter Name="orderBy" Type="Azure.Containers.ContainerRegistry.ArtifactManifestOrderBy" Index="0" FrameworkAlternate="azure-dotnet-preview" />
+        <Parameter Name="cancellationToken" Type="System.Threading.CancellationToken" Index="1" FrameworkAlternate="azure-dotnet-preview" />
       </Parameters>
       <Docs>
         <param name="orderBy"> Requested order of manifests in the collection. </param>
@@ -183,6 +246,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Containers.ContainerRegistry.ContainerRepositoryProperties&gt;</ReturnType>
@@ -208,6 +272,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Containers.ContainerRegistry.ContainerRepositoryProperties&gt;&gt;</ReturnType>
@@ -233,6 +298,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.String</ReturnType>
@@ -255,6 +321,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Uri</ReturnType>
@@ -277,6 +344,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Azure.Response&lt;Azure.Containers.ContainerRegistry.ContainerRepositoryProperties&gt;</ReturnType>
@@ -305,6 +373,7 @@
       <AssemblyInfo>
         <AssemblyName>Azure.Containers.ContainerRegistry</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <AssemblyVersion>1.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Azure.Response&lt;Azure.Containers.ContainerRegistry.ContainerRepositoryProperties&gt;&gt;</ReturnType>

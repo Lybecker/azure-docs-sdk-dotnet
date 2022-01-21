@@ -8,6 +8,7 @@
     <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
     <AssemblyVersion>21.0.0.0</AssemblyVersion>
     <AssemblyVersion>22.0.0.0</AssemblyVersion>
+    <AssemblyVersion>23.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -31,6 +32,7 @@
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
         <AssemblyVersion>21.0.0.0</AssemblyVersion>
         <AssemblyVersion>22.0.0.0</AssemblyVersion>
+        <AssemblyVersion>23.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Storage.Models.ObjectReplicationPolicy</ReturnType>
@@ -56,8 +58,11 @@
             numbers and lower-case letters only.
             </param>
         <param name="objectReplicationPolicyId">
-            The ID of object replication policy or 'default' if the policy ID is
-            unknown.
+            For the destination account, provide the value 'default'. Configure the
+            policy on the destination account first. For the source account, provide
+            the value of the policy ID that is returned when you download the policy
+            that was defined on the destination account. The policy is downloaded as a
+            JSON file.
             </param>
         <param name="properties">
             The object replication policy set to a storage account. A unique policy ID
@@ -81,6 +86,7 @@
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
         <AssemblyVersion>21.0.0.0</AssemblyVersion>
         <AssemblyVersion>22.0.0.0</AssemblyVersion>
+        <AssemblyVersion>23.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Storage.Models.ObjectReplicationPolicy&gt;</ReturnType>
@@ -107,8 +113,11 @@
             numbers and lower-case letters only.
             </param>
         <param name="objectReplicationPolicyId">
-            The ID of object replication policy or 'default' if the policy ID is
-            unknown.
+            For the destination account, provide the value 'default'. Configure the
+            policy on the destination account first. For the source account, provide
+            the value of the policy ID that is returned when you download the policy
+            that was defined on the destination account. The policy is downloaded as a
+            JSON file.
             </param>
         <param name="properties">
             The object replication policy set to a storage account. A unique policy ID
@@ -135,6 +144,7 @@
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
         <AssemblyVersion>21.0.0.0</AssemblyVersion>
         <AssemblyVersion>22.0.0.0</AssemblyVersion>
+        <AssemblyVersion>23.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -159,8 +169,11 @@
             numbers and lower-case letters only.
             </param>
         <param name="objectReplicationPolicyId">
-            The ID of object replication policy or 'default' if the policy ID is
-            unknown.
+            For the destination account, provide the value 'default'. Configure the
+            policy on the destination account first. For the source account, provide
+            the value of the policy ID that is returned when you download the policy
+            that was defined on the destination account. The policy is downloaded as a
+            JSON file.
             </param>
         <summary>
             Deletes the object replication policy associated with the specified storage
@@ -180,6 +193,7 @@
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
         <AssemblyVersion>21.0.0.0</AssemblyVersion>
         <AssemblyVersion>22.0.0.0</AssemblyVersion>
+        <AssemblyVersion>23.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -205,8 +219,11 @@
             numbers and lower-case letters only.
             </param>
         <param name="objectReplicationPolicyId">
-            The ID of object replication policy or 'default' if the policy ID is
-            unknown.
+            For the destination account, provide the value 'default'. Configure the
+            policy on the destination account first. For the source account, provide
+            the value of the policy ID that is returned when you download the policy
+            that was defined on the destination account. The policy is downloaded as a
+            JSON file.
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -230,6 +247,7 @@
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
         <AssemblyVersion>21.0.0.0</AssemblyVersion>
         <AssemblyVersion>22.0.0.0</AssemblyVersion>
+        <AssemblyVersion>23.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Storage.Models.ObjectReplicationPolicy</ReturnType>
@@ -254,8 +272,11 @@
             numbers and lower-case letters only.
             </param>
         <param name="objectReplicationPolicyId">
-            The ID of object replication policy or 'default' if the policy ID is
-            unknown.
+            For the destination account, provide the value 'default'. Configure the
+            policy on the destination account first. For the source account, provide
+            the value of the policy ID that is returned when you download the policy
+            that was defined on the destination account. The policy is downloaded as a
+            JSON file.
             </param>
         <summary>
             Get the object replication policy of the storage account by policy ID.
@@ -275,6 +296,7 @@
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
         <AssemblyVersion>21.0.0.0</AssemblyVersion>
         <AssemblyVersion>22.0.0.0</AssemblyVersion>
+        <AssemblyVersion>23.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Storage.Models.ObjectReplicationPolicy&gt;</ReturnType>
@@ -300,8 +322,11 @@
             numbers and lower-case letters only.
             </param>
         <param name="objectReplicationPolicyId">
-            The ID of object replication policy or 'default' if the policy ID is
-            unknown.
+            For the destination account, provide the value 'default'. Configure the
+            policy on the destination account first. For the source account, provide
+            the value of the policy ID that is returned when you download the policy
+            that was defined on the destination account. The policy is downloaded as a
+            JSON file.
             </param>
         <param name="cancellationToken">
             The cancellation token.
@@ -324,6 +349,7 @@
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
         <AssemblyVersion>21.0.0.0</AssemblyVersion>
         <AssemblyVersion>22.0.0.0</AssemblyVersion>
+        <AssemblyVersion>23.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Collections.Generic.IEnumerable&lt;Microsoft.Azure.Management.Storage.Models.ObjectReplicationPolicy&gt;</ReturnType>
@@ -364,6 +390,7 @@
         <AssemblyName>Microsoft.Azure.Management.Storage</AssemblyName>
         <AssemblyVersion>21.0.0.0</AssemblyVersion>
         <AssemblyVersion>22.0.0.0</AssemblyVersion>
+        <AssemblyVersion>23.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;System.Collections.Generic.IEnumerable&lt;Microsoft.Azure.Management.Storage.Models.ObjectReplicationPolicy&gt;&gt;</ReturnType>

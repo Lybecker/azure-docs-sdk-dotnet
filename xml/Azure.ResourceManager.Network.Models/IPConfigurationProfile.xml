@@ -94,18 +94,18 @@
       </Docs>
     </Member>
     <Member MemberName="Subnet">
-      <MemberSignature Language="C#" Value="public Azure.ResourceManager.Network.Models.Subnet Subnet { get; set; }" />
-      <MemberSignature Language="ILAsm" Value=".property instance class Azure.ResourceManager.Network.Models.Subnet Subnet" />
+      <MemberSignature Language="C#" Value="public Azure.ResourceManager.Network.SubnetData Subnet { get; set; }" />
+      <MemberSignature Language="ILAsm" Value=".property instance class Azure.ResourceManager.Network.SubnetData Subnet" />
       <MemberSignature Language="DocId" Value="P:Azure.ResourceManager.Network.Models.IPConfigurationProfile.Subnet" />
-      <MemberSignature Language="VB.NET" Value="Public Property Subnet As Subnet" />
-      <MemberSignature Language="F#" Value="member this.Subnet : Azure.ResourceManager.Network.Models.Subnet with get, set" Usage="Azure.ResourceManager.Network.Models.IPConfigurationProfile.Subnet" />
+      <MemberSignature Language="VB.NET" Value="Public Property Subnet As SubnetData" />
+      <MemberSignature Language="F#" Value="member this.Subnet : Azure.ResourceManager.Network.SubnetData with get, set" Usage="Azure.ResourceManager.Network.Models.IPConfigurationProfile.Subnet" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
         <AssemblyName>Azure.ResourceManager.Network</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
-        <ReturnType>Azure.ResourceManager.Network.Models.Subnet</ReturnType>
+        <ReturnType>Azure.ResourceManager.Network.SubnetData</ReturnType>
       </ReturnValue>
       <Docs>
         <summary> The reference to the subnet resource to create a container network interface ip configuration. </summary>

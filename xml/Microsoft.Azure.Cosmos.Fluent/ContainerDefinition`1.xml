@@ -11,6 +11,10 @@
     <AssemblyVersion>3.19.0.0</AssemblyVersion>
     <AssemblyVersion>3.20.0.0</AssemblyVersion>
     <AssemblyVersion>3.20.1.0</AssemblyVersion>
+    <AssemblyVersion>3.21.0.0</AssemblyVersion>
+    <AssemblyVersion>3.22.0.0</AssemblyVersion>
+    <AssemblyVersion>3.22.1.0</AssemblyVersion>
+    <AssemblyVersion>3.23.0.0</AssemblyVersion>
   </AssemblyInfo>
   <TypeParameters>
     <TypeParameter Name="T">
@@ -45,6 +49,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -68,6 +76,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Cosmos.ContainerProperties</ReturnType>
@@ -95,6 +107,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -127,6 +143,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -159,6 +179,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Cosmos.Fluent.IndexingPolicyDefinition&lt;T&gt;</ReturnType>
@@ -186,6 +210,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>
@@ -224,6 +252,10 @@
         <AssemblyVersion>3.19.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.0.0</AssemblyVersion>
         <AssemblyVersion>3.20.1.0</AssemblyVersion>
+        <AssemblyVersion>3.21.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.0.0</AssemblyVersion>
+        <AssemblyVersion>3.22.1.0</AssemblyVersion>
+        <AssemblyVersion>3.23.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>T</ReturnType>

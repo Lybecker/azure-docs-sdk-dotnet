@@ -10,6 +10,11 @@
     <AssemblyVersion>46.0.0.0</AssemblyVersion>
     <AssemblyVersion>47.0.0.0</AssemblyVersion>
     <AssemblyVersion>48.0.0.0</AssemblyVersion>
+    <AssemblyVersion>49.0.0.0</AssemblyVersion>
+    <AssemblyVersion>49.1.0.0</AssemblyVersion>
+    <AssemblyVersion>49.2.0.0</AssemblyVersion>
+    <AssemblyVersion>50.0.0.0</AssemblyVersion>
+    <AssemblyVersion>51.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -35,6 +40,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.Gallery</ReturnType>
@@ -80,6 +90,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -129,6 +144,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -167,6 +187,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -210,6 +235,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.Gallery</ReturnType>
@@ -255,6 +285,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -304,6 +339,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.Gallery</ReturnType>
@@ -349,6 +389,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -398,6 +443,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Void</ReturnType>
@@ -436,6 +486,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task</ReturnType>
@@ -478,6 +533,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.Gallery</ReturnType>
@@ -521,6 +581,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -548,10 +613,10 @@
       </Docs>
     </Member>
     <Member MemberName="GetAsync">
-      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt; GetAsync (this Microsoft.Azure.Management.Compute.IGalleriesOperations operations, string resourceGroupName, string galleryName, System.Threading.CancellationToken cancellationToken = default);" />
+      <MemberSignature Language="C#" Value="public static System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt; GetAsync (this Microsoft.Azure.Management.Compute.IGalleriesOperations operations, string resourceGroupName, string galleryName, System.Threading.CancellationToken cancellationToken);" />
       <MemberSignature Language="ILAsm" Value=".method public static hidebysig class System.Threading.Tasks.Task`1&lt;class Microsoft.Azure.Management.Compute.Models.Gallery&gt; GetAsync(class Microsoft.Azure.Management.Compute.IGalleriesOperations operations, string resourceGroupName, string galleryName, valuetype System.Threading.CancellationToken cancellationToken) cil managed" />
       <MemberSignature Language="DocId" Value="M:Microsoft.Azure.Management.Compute.GalleriesOperationsExtensions.GetAsync(Microsoft.Azure.Management.Compute.IGalleriesOperations,System.String,System.String,System.Threading.CancellationToken)" />
-      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetAsync (operations As IGalleriesOperations, resourceGroupName As String, galleryName As String, Optional cancellationToken As CancellationToken = Nothing) As Task(Of Gallery)" />
+      <MemberSignature Language="VB.NET" Value="&lt;Extension()&gt;&#xA;Public Function GetAsync (operations As IGalleriesOperations, resourceGroupName As String, galleryName As String, cancellationToken As CancellationToken) As Task(Of Gallery)" />
       <MemberSignature Language="F#" Value="static member GetAsync : Microsoft.Azure.Management.Compute.IGalleriesOperations * string * string * System.Threading.CancellationToken -&gt; System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;" Usage="Microsoft.Azure.Management.Compute.GalleriesOperationsExtensions.GetAsync (operations, resourceGroupName, galleryName, cancellationToken)" />
       <MemberType>Method</MemberType>
       <AssemblyInfo>
@@ -560,6 +625,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -602,6 +672,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -650,6 +725,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -681,6 +761,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;&gt;</ReturnType>
@@ -716,6 +801,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -751,6 +841,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;&gt;</ReturnType>
@@ -790,6 +885,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -825,6 +925,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;&gt;</ReturnType>
@@ -864,6 +969,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>
@@ -899,6 +1009,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Rest.Azure.IPage&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;&gt;</ReturnType>
@@ -938,6 +1053,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Azure.Management.Compute.Models.Gallery</ReturnType>
@@ -983,6 +1103,11 @@
         <AssemblyVersion>46.0.0.0</AssemblyVersion>
         <AssemblyVersion>47.0.0.0</AssemblyVersion>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>System.Threading.Tasks.Task&lt;Microsoft.Azure.Management.Compute.Models.Gallery&gt;</ReturnType>

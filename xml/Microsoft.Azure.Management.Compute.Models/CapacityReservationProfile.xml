@@ -7,6 +7,11 @@
   <AssemblyInfo>
     <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
     <AssemblyVersion>48.0.0.0</AssemblyVersion>
+    <AssemblyVersion>49.0.0.0</AssemblyVersion>
+    <AssemblyVersion>49.1.0.0</AssemblyVersion>
+    <AssemblyVersion>49.2.0.0</AssemblyVersion>
+    <AssemblyVersion>50.0.0.0</AssemblyVersion>
+    <AssemblyVersion>51.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -28,6 +33,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -47,6 +57,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="capacityReservationGroup" Type="Microsoft.Azure.Management.Compute.Models.SubResource" />
@@ -73,6 +88,11 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Azure.Management.Compute</AssemblyName>
         <AssemblyVersion>48.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.0.0.0</AssemblyVersion>
+        <AssemblyVersion>49.1.0.0</AssemblyVersion>
+        <AssemblyVersion>49.2.0.0</AssemblyVersion>
+        <AssemblyVersion>50.0.0.0</AssemblyVersion>
+        <AssemblyVersion>51.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>

@@ -5,7 +5,7 @@
   <TypeSignature Language="VB.NET" Value="Public Class ParameterDefinitionsValue" />
   <TypeSignature Language="F#" Value="type ParameterDefinitionsValue = class" />
   <AssemblyInfo>
-    <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+    <AssemblyName>Azure.ResourceManager</AssemblyName>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
@@ -24,7 +24,7 @@
       <MemberSignature Language="VB.NET" Value="Public Sub New ()" />
       <MemberType>Constructor</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
@@ -41,7 +41,7 @@
       <MemberSignature Language="F#" Value="member this.AllowedValues : System.Collections.Generic.IList&lt;obj&gt;" Usage="Azure.ResourceManager.Resources.Models.ParameterDefinitionsValue.AllowedValues" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -61,7 +61,7 @@
       <MemberSignature Language="F#" Value="member this.DefaultValue : obj with get, set" Usage="Azure.ResourceManager.Resources.Models.ParameterDefinitionsValue.DefaultValue" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -81,7 +81,7 @@
       <MemberSignature Language="F#" Value="member this.Metadata : Azure.ResourceManager.Resources.Models.ParameterDefinitionsValueMetadata with get, set" Usage="Azure.ResourceManager.Resources.Models.ParameterDefinitionsValue.Metadata" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
@@ -101,7 +101,7 @@
       <MemberSignature Language="F#" Value="member this.Type : Nullable&lt;Azure.ResourceManager.Resources.Models.ParameterType&gt; with get, set" Usage="Azure.ResourceManager.Resources.Models.ParameterDefinitionsValue.Type" />
       <MemberType>Property</MemberType>
       <AssemblyInfo>
-        <AssemblyName>Azure.ResourceManager.Resources</AssemblyName>
+        <AssemblyName>Azure.ResourceManager</AssemblyName>
         <AssemblyVersion>1.0.0.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>

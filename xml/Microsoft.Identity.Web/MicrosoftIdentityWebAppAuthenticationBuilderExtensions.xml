@@ -19,6 +19,14 @@
     <AssemblyVersion>1.15.1.0</AssemblyVersion>
     <AssemblyVersion>1.15.2.0</AssemblyVersion>
     <AssemblyVersion>1.16.0.0</AssemblyVersion>
+    <AssemblyVersion>1.16.1.0</AssemblyVersion>
+    <AssemblyVersion>1.17.0.0</AssemblyVersion>
+    <AssemblyVersion>1.18.0.0</AssemblyVersion>
+    <AssemblyVersion>1.19.0.0</AssemblyVersion>
+    <AssemblyVersion>1.20.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.0.0</AssemblyVersion>
+    <AssemblyVersion>1.21.1.0</AssemblyVersion>
+    <AssemblyVersion>1.22.1.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -41,6 +49,14 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Web</AssemblyName>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Web.MicrosoftIdentityWebAppAuthenticationBuilderWithConfiguration</ReturnType>
@@ -78,6 +94,14 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Web</AssemblyName>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Web.MicrosoftIdentityWebAppAuthenticationBuilderWithConfiguration</ReturnType>
@@ -118,6 +142,14 @@
       <AssemblyInfo>
         <AssemblyName>Microsoft.Identity.Web</AssemblyName>
         <AssemblyVersion>1.16.0.0</AssemblyVersion>
+        <AssemblyVersion>1.16.1.0</AssemblyVersion>
+        <AssemblyVersion>1.17.0.0</AssemblyVersion>
+        <AssemblyVersion>1.18.0.0</AssemblyVersion>
+        <AssemblyVersion>1.19.0.0</AssemblyVersion>
+        <AssemblyVersion>1.20.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.0.0</AssemblyVersion>
+        <AssemblyVersion>1.21.1.0</AssemblyVersion>
+        <AssemblyVersion>1.22.1.0</AssemblyVersion>
       </AssemblyInfo>
       <ReturnValue>
         <ReturnType>Microsoft.Identity.Web.MicrosoftIdentityWebAppAuthenticationBuilder</ReturnType>

@@ -13,6 +13,13 @@
     <AssemblyVersion>4.21.0.0</AssemblyVersion>
     <AssemblyVersion>4.22.0.0</AssemblyVersion>
     <AssemblyVersion>4.23.0.0</AssemblyVersion>
+    <AssemblyVersion>4.24.0.0</AssemblyVersion>
+    <AssemblyVersion>4.25.0.0</AssemblyVersion>
+    <AssemblyVersion>4.26.0.0</AssemblyVersion>
+    <AssemblyVersion>4.27.0.0</AssemblyVersion>
+    <AssemblyVersion>4.28.0.0</AssemblyVersion>
+    <AssemblyVersion>5.0.0.0</AssemblyVersion>
+    <AssemblyVersion>5.1.0.0</AssemblyVersion>
   </AssemblyInfo>
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
@@ -40,6 +47,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters />
       <Docs>
@@ -65,6 +79,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Parameters>
         <Parameter Name="additionalProperties" Type="System.Collections.Generic.IDictionary&lt;System.String,System.Object&gt;" />
@@ -104,7 +125,8 @@
         <param name="runEnd">The end time of a pipeline run in ISO8601
             format.</param>
         <param name="durationInMs">The duration of a pipeline run.</param>
-        <param name="status">The status of a pipeline run.</param>
+        <param name="status">The status of a pipeline run. Possible values:
+            Queued, InProgress, Succeeded, Failed, Canceling, Cancelled</param>
         <param name="message">The message from a pipeline run.</param>
         <summary>
             Initializes a new instance of the PipelineRun class.
@@ -128,6 +150,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -163,6 +192,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -197,6 +233,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -231,6 +274,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -266,6 +316,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -301,6 +358,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -335,6 +399,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -370,6 +441,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -404,6 +482,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -438,6 +523,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -472,6 +564,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -507,6 +606,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -541,6 +647,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -575,6 +688,13 @@
         <AssemblyVersion>4.21.0.0</AssemblyVersion>
         <AssemblyVersion>4.22.0.0</AssemblyVersion>
         <AssemblyVersion>4.23.0.0</AssemblyVersion>
+        <AssemblyVersion>4.24.0.0</AssemblyVersion>
+        <AssemblyVersion>4.25.0.0</AssemblyVersion>
+        <AssemblyVersion>4.26.0.0</AssemblyVersion>
+        <AssemblyVersion>4.27.0.0</AssemblyVersion>
+        <AssemblyVersion>4.28.0.0</AssemblyVersion>
+        <AssemblyVersion>5.0.0.0</AssemblyVersion>
+        <AssemblyVersion>5.1.0.0</AssemblyVersion>
       </AssemblyInfo>
       <Attributes>
         <Attribute>
@@ -587,7 +707,8 @@
       </ReturnValue>
       <Docs>
         <summary>
-            Gets the status of a pipeline run.
+            Gets the status of a pipeline run. Possible values: Queued,
+            InProgress, Succeeded, Failed, Canceling, Cancelled
             </summary>
         <value>To be added.</value>
         <remarks>To be added.</remarks>

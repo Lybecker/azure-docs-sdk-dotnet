@@ -149,6 +149,15 @@
       landingPageType: Service
       children:
       - 'Microsoft.Azure.Management.Cdn*'
+  - name: Chaos Studio
+    uid: azure.net.sdk.landingPage.services.chaos
+    landingPageType: Service
+    items:
+    - name: Management
+      uid: azure.net.sdk.landingPage.services.chaos.Management
+      landingPageType: Service
+      children:
+      - 'Microsoft.Azure.Management.Chaos*'
   - name: Cognitive Services
     uid: azure.net.sdk.landingPage.services.CognitiveServices
     landingPageType: Service
@@ -258,11 +267,25 @@
           children:
           - 'Azure.AI.FormRecognizer*'
         - name: Language Understanding
-          uid: azure.net.sdk.landingPage.services.CognitiveServices.Client.LUIS
+          uid: azure.net.sdk.landingPage.services.CognitiveServices.Language
           landingPageType: Service
-          children:
-          - 'Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring*' 
-          - 'Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime*'
+          items:
+          - name: Conversations
+            uid: azure.net.sdk.landingPage.services.CognitiveServices.Language.Conversations
+            href:  ~/api/overview/azure/ai.language.conversations-readme-pre.md
+            children:
+            - 'Azure.AI.Language.Conversations*' 
+          - name: Question Answering
+            uid: azure.net.sdk.landingPage.services.CognitiveServices.Language.QuestionAnswering
+            href:  ~/api/overview/azure/ai.language.questionanswering-readme-pre.md
+            children:
+            - 'Azure.AI.Language.QuestionAnswering*' 
+          - name: Cognitive Services LUIS
+            uid: azure.net.sdk.landingPage.services.CognitiveServices.Language.LUIS
+            landingPageType: Service
+            children:
+            - 'Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring*' 
+            - 'Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime*'
         - name: Metrics Advisor
           uid: azure.net.sdk.landingPage.services.CognitiveServices.Client.MetricsAdvisor
           href: ~/api/overview/azure/ai.metricsadvisor-readme-pre.md
@@ -697,6 +720,15 @@
       children:
       - 'Microsoft.Azure.KeyVault*'
       - 'Microsoft.Extensions.Configuration'
+  - name: Kubernetes Configuration
+    uid: azure.net.sdk.landingPage.services.kubernetesconfiguration
+    landingPageType: Service
+    items:
+    - name: Management
+      uid: azure.net.sdk.landingPage.services.kubernetesconfiguration.Management
+      landingPageType: Service
+      children:
+      - 'Microsoft.Azure.Management.KubernetesConfiguration*'
   - name: Lab Services
     uid: azure.net.sdk.landingPage.services.labservices
     landingPageType: Service
@@ -781,8 +813,18 @@
       - 'System.Web.http*'
   - name: Monitor
     uid: azure.net.sdk.landingPage.services.Monitor
-    href: ~/api/overview/azure/monitor.md
+    landingPageType: Service
     items:
+    - name: OpenTelemetry Exporter
+      uid: azure.net.sdk.landingPage.services.Monitor.OpenTelemetryExporter
+      landingPageType: Service
+      children:
+      - 'Azure.Monitor.OpenTelemetry.Exporter'
+    - name: Query
+      uid: azure.net.sdk.landingPage.services.Monitor.Query
+      landingPageType: Service
+      children:
+      - 'Azure.Monitor.Query*'
     - name: Management
       uid: azure.net.sdk.landingPage.services.Monitor.Management
       landingPageType: Service
@@ -889,6 +931,7 @@
       uid: azure.net.sdk.landingPage.services.purview.Client
       landingPageType: Service
       children:
+      - 'Azure.Analytics.Purview.Account*'
       - 'Azure.Analytics.Purview.Scanning*'
   - name: Recovery Services and Backup
     uid: azure.net.sdk.landingPage.services.Recovery
@@ -1205,7 +1248,7 @@
       - 'Azure.Analytics.Synapse.AccessControl*'
   - name: Tables
     uid: azure.net.sdk.landingPage.services.Tables
-    href:  ~/api/overview/azure/data.tables-readme-pre.md
+    href:  ~/api/overview/azure/data.tables-readme.md
     children:
       - 'Azure.Data.Tables*'
   - name: Text Analytics
